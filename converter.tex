@@ -40,8 +40,13 @@
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:colloquiumtitle}
-  \xmlflush{#1}
+  \startchapter[
+    title={\xmlflush{#1}}
+    ]
+  \stopchapter
 \stopxmlsetups
+
+\setuphead[chapter][number=no]
 
 \startxmlsetups{xml:corderius:castList}
   \xmlflush{#1}
