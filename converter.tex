@@ -1,0 +1,78 @@
+%LuaTeX
+
+\startxmlsetups xml:corderius:*
+  \xmlsetsetup{\xmldocument}{*}{-}
+  \xmlsetsetup{\xmldocument}{TEI.2|text|body|div|castList|castItem|sp|speaker|foreign|p|head}{xml:corderius:*}
+  \xmlsetsetup{\xmldocument}{div[@type='colloquium']}{xml:corderius:colloquium}
+  \xmlsetsetup{\xmldocument}{div[@type='book']}{xml:corderius:liber}
+  \xmlsetsetup{\xmldocument}{div[@type='book']/head}{xml:corderius:booktitle}
+  \xmlsetsetup{\xmldocument}{div[@type='colloquium']/head}{xml:corderius:colloquiumtitle}
+\stopxmlsetups
+
+\xmlregisterdocumentsetup{corderius}{xml:corderius:*}
+
+\startxmlsetups{xml:corderius:TEI.2}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:text}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:body}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:div}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:liber}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:booktitle}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:colloquium}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:colloquiumtitle}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:castList}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:castItem}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:sp}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:speaker}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:p}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:foreign}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:corderius:q}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\starttext
+
+  \xmlprocessfile{corderius}{liber_i.xml}{}
+
+\stoptext
