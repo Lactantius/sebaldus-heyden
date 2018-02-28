@@ -1,5 +1,71 @@
 %LuaTeX
 
+% \usemodule[newcolumnsets]
+%
+% \definecolumnset[dialogue][balance=yes,
+%                            n=2,
+%                            ]
+
+\definemixedcolumns[dialogue][balance=yes,
+                              n=2,
+                              ]
+
+% \showgrid
+\showframe
+\showlayout
+
+\setuphead[part][
+  header=empty,
+  placehead=yes,
+  number=no,
+]
+
+\setuphead[section][
+  page=no,
+  number=no,
+  before={\blank},
+  after={},
+  align=middle,
+]
+
+\setuppagenumbering[alternative=doublesided]
+
+\definepapersize[memo][width=5.5in,height=8.5in]
+\setuppapersize[memo,portrait][letter,landscape]
+\setuparranging[2UP]
+
+\setuplayout[
+  grid=yes,
+  width=4.5in,
+  height=8in,
+  backspace=.4in
+]
+
+\setupbodyfontenvironment[default][em=sc]
+\definefontfeature[default][default][protrusion=quality,
+                                      liga=yes,
+                                      clig=yes,
+                                      calt=yes,
+                                      kern=yes,
+                                      expansion=quality,
+                                      mode=node,
+                                      trep=yes,
+                                      script=latn,
+                                      onum=yes,
+                                      dlig=yes,
+                                      hist=yes,
+                                      jalt=yes,
+                                      clig=yes]
+\setupalign [hanging,hz]
+\setuptolerance[{horizontal,strict,stretch}] % To fix overfills
+\setuphyphenmark[sign=‑]
+
+\usetypescript[palatino]
+\definetypeface [palatino][rm][serif][palatino][default][features=default]
+\setupbodyfont [palatino, 10pt]
+
+\setupcolumns[n=2]
+
 \startxmlsetups xml:corderius:*
   \xmlsetsetup{\xmldocument}{*}{-}
   \xmlsetsetup{\xmldocument}{TEI.2|text|body|castList|castItem|sp|speaker|foreign|p|head|q}{xml:corderius:*}
@@ -35,38 +101,29 @@
   \stoppart
 \stopxmlsetups
 
-\setuphead[part][
-  header=empty,
-  placehead=yes,
-  number=no,
-]
-
 \startxmlsetups{xml:corderius:colloquium}
-  \startchapter[
+  \startsection[
     title={\xmlfirst{#1}{/head}}
     ]
     %\xmlall{#1}{*[position()>1]}
-    \xmlall{#1}{/!head}
-    \stopcolumns
-  \stopchapter
+    \xmlall{#1}{/p|castList}
+    \startmixedcolumns[dialogue]
+      \xmlall{#1}{/!(head|p|castList)}
+    \stopmixedcolumns
+  \stopsection
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:head}
   \xmlflush{#1}
 \stopxmlsetups
 
-\setuphead[chapter][
-  page=no,
-  number=no,
-]
-
 \startxmlsetups{xml:corderius:castList}
-  \xmlflush{#1}\endgraf
-  \startcolumns[n=2]
+  \xmlflush{#1}
+  \blank
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:castItem}
-  \xmlflush{#1}
+  \xmlflush{#1}\space\space
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:sp}
