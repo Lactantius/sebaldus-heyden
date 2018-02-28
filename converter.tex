@@ -9,7 +9,6 @@
   \xmlsetsetup{\xmldocument}{div[@type='book']}{xml:corderius:liber}
 
   \xmlsetsetup{\xmldocument}{div[@type='book']/head}{xml:corderius:booktitle}
-  \xmlsetsetup{\xmldocument}{div[@type='colloquium']/head}{xml:corderius:colloquiumtitle}
 \stopxmlsetups
 
 \xmlregisterdocumentsetup{corderius}{xml:corderius:*}
@@ -42,14 +41,15 @@
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:colloquium}
-  \xmlflush{#1}
+  \startchapter[
+    title={\xmlfirst{#1}{/head}}
+    ]
+    \xmlflush{#1}
+  \stopchapter
 \stopxmlsetups
 
-\startxmlsetups{xml:corderius:colloquiumtitle}
-  \startchapter[
-    title={\xmlflush{#1}}
-    ]
-  \stopchapter
+\startxmlsetups{xml:corderius:head}
+  \xmlflush{#1}
 \stopxmlsetups
 
 \setuphead[chapter][
