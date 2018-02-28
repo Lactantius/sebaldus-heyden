@@ -47,6 +47,7 @@
     ]
     %\xmlall{#1}{*[position()>1]}
     \xmlall{#1}{/!head}
+    \stopcolumns
   \stopchapter
 \stopxmlsetups
 
@@ -61,6 +62,7 @@
 
 \startxmlsetups{xml:corderius:castList}
   \xmlflush{#1}\endgraf
+  \startcolumns[n=2]
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:castItem}
