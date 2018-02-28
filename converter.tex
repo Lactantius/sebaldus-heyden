@@ -46,7 +46,10 @@
   \stopchapter
 \stopxmlsetups
 
-\setuphead[chapter][number=no]
+\setuphead[chapter][
+  page=no,
+  number=no,
+]
 
 \startxmlsetups{xml:corderius:castList}
   \xmlflush{#1}
@@ -57,7 +60,7 @@
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:sp}
-  \xmlflush{#1}
+  \xmlflush{#1}\endgraf
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:speaker}
@@ -65,7 +68,7 @@
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:p}
-  \xmlflush{#1}\endgraf
+  \xmlflush{#1}
 \stopxmlsetups
 
 \startxmlsetups{xml:corderius:foreign}
