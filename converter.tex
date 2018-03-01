@@ -1,11 +1,5 @@
 %LuaTeX
 
-% \usemodule[newcolumnsets]
-%
-% \definecolumnset[dialogue][balance=yes,
-%                            n=2,
-%                            ]
-
 \definemixedcolumns[dialogue][balance=yes,
                               n=2,
                               ]
@@ -34,8 +28,15 @@
 \setuppapersize[memo,portrait][letter,landscape]
 \setuparranging[2UP]
 
+\startsetups[grid][widowsandorphans]
+  \setdefaultpenalties
+  \setpenalties\widowpenalties{2}{10000}
+  \setpenalties\clubpenalties {2}{10000}
+\stopsetups
+
 \setuplayout[
   grid=yes,
+  setups=widowsandorphans,
   width=4.5in,
   height=8in,
   backspace=.4in
@@ -61,8 +62,8 @@
 \setuphyphenmark[sign=‑]
 
 \usetypescript[palatino]
-\definetypeface [palatino][rm][serif][palatino][default][features=default]
-\setupbodyfont [palatino, 10pt]
+\definetypeface[palatino][rm][serif][palatino][default][features=default]
+\setupbodyfont[palatino, 9.5pt]
 
 \setupcolumns[n=2]
 
