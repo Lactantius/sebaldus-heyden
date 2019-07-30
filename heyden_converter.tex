@@ -1,0 +1,77 @@
+%LuaTeX
+
+\startxmlsetups xml:heyden:*
+  \xmlsetsetup{\xmldocument}{*}{-}
+  \xmlsetsetup{\xmldocument}{content|h1|section|spoken|h2|head|en-head|speakers|p|en-p}{xml:heyden:*}
+\stopxmlsetups
+
+\xmlregisterdocumentsetup{heyden}{xml:heyden:*}
+
+\startxmlsetups{xml:heyden:content}
+  \starttitle[title={\xmlfirst{#1}{h1}}]
+    %\xmlflush{#1}
+    \xmlall{#1}{section}
+  \stoptitle
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:section}
+  \startchapter[title={\xmlfirst{#1}{h2}}]
+    \xmlall{#1}{!h2|!p|!en-p}
+    %\xmlfilter{#1}{[position()>1]/all()}
+  \stopchapter
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:head}
+  \bigger{\xmlflush{#1}}\endgraf
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:en-head}
+  {\it\xmlflush{#1}}\endgraf
+  \bigskip
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:speakers}
+  \xmlflush{#1}\endgraf
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:spoken}
+  \bTABLE
+    \xmlflush{#1}
+  \eTABLE
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:p}
+  \bTR
+    \bTD
+      \xmlflush{#1}
+    \eTD
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:en-p}
+    \bTD
+      \xmlflush{#1}
+    \eTD
+  \eTR
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:h1}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:h2}
+  \xmlflush{#1}
+\stopxmlsetups
+
+\setupbodyfont[palatino, 9pt]
+\setupTABLE[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
+\setupTABLE[c][align={lohi,flushleft,hz},width=2in,offset=0em]
+\setupTABLE[c][2][style=\it]
+\setuphead[chapter][number=no,page=no,after=\smallskip,before=\hrule\smallskip]
+\setuphead[title][align={middle,nothyphenated}]
+
+\enablemode[booklet]
+\environment /home/keiser/context/environments/doc_types.tex
+
+\starttext
+  \xmlprocessfile{heyden}{puerilium_colloquiorum.xml}{}
+\stoptext

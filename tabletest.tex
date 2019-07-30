@@ -1,0 +1,22 @@
+%LuaTeX
+
+\setupTABLE[align=lohi,columndistance=2em]
+\setupTABLE[c][align={lohi,flushleft,paragraph}]
+
+\starttext
+
+\bTABLE
+  \bTR
+    \bTD
+      Short
+    \eTD
+    \bTD
+      \input knuth
+    \eTD
+  \eTR
+\eTABLE
+
+\input{knuth}
+\input{knuth}
+
+\stoptext
