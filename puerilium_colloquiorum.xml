@@ -116,7 +116,7 @@
 <en-p>But I will, for sure.</en-p>
 <p>Ga. Tū eās cubitum.</p>
 <en-p>You can go to bed.</en-p>
-<p>Fē. Quid tū autem āgēs?</p>
+<p>Fē. Quid tū autem agēs?</p>
 <en-p>So what are you gonna do?</en-p>
 <p>Ga. Pergam legere.</p>
 <en-p>I’ll keep reading.</en-p>
@@ -276,389 +276,441 @@
 
 <section>
 <h2>Dialogus IX</h2>
-<head>Inter Discendum In Schola</head>
-<speakers>Kilianus, Lampertus.</speakers>
+<head>Inter Discendum In Scholā</head>
+<speakers>!Kiliānus, !Lampertus.</speakers>
 <spoken>
-<p>Ki. Heus tu huc sede.</p>
+<p>Ki. Heus, tū hūc sedē.</p>
 <en-p>Hey, sit over here.</en-p>
-<p>La. Quid istic facerem?</p>
+<p>La. Quid istīc facerem?</p>
 <en-p>What would I do over there?</en-p>
-<p>Ki. Discamus simul.</p>
-<en-p>Let’s learn together.</en-p>
-<p>La. Rem gratam offers.</p>
+<p>Ki. Discāmus simul.</p>
+<en-p>Let’s study together.</en-p>
+<p>La. Rem grātam offers.</p>
 <en-p>That’s a nice suggestion.</en-p>
 <p>Ki. Alter alterum doceat.</p>
 <en-p>Let one teach the other.</en-p>
-<p>La. Perlubens pareo.</p>
+<p>La. Perlubēns pāreō.</p>
 <en-p>I am totally ready.</en-p>
-<p>Ki. Quidnam tu discis?</p>
+<p>Ki. Quidnam tū discis?</p>
 <en-p>What are you learning, anyway?</en-p>
-<p>La. Disco legere.</p>
+<p>La. Discō legere.</p>
 <en-p>I’m learning to read.</en-p>
 <p>Ki. Ubi nunc legis?</p>
 <en-p>Where are you reading now?</en-p>
-<p>La. In hoc folio.</p>
+<p>La. In hōc foliō.</p>
 <en-p>On this sheet.</en-p>
-<p>Ki. Scis lectionem?</p>
+<p>Ki. Scīs lēctiōnem?</p>
 <en-p>Do you know the reading?</en-p>
-<p>La. Non admodum prompte.</p>
+<p>La. Nōn admodum prōmptē.</p>
 <en-p>Not quickly enough.</en-p>
-<p>Ki. Quoties recitasti?</p>
-<en-p>How many times have you recited it?</en-p>
-<p>La. Recitavi semel (I), bis (II), ter (III), quater (IIII).</p>
+<p>Ki. Quotiēs recitāstī?</p>
+<en-p>How many times have you read it out?</en-p>
+<p>La. Recitāvī semel (I), bis (II), ter (III), quater (IIII).</p>
 <en-p>I’ve recited it once, twice, thrice, four times.</en-p>
-<p>Ki. Cuinam recitasti?</p>
-<en-p>Who did you recite it to?</en-p>
-<p>La. Rectori scholae.</p>
+<p>Ki. Cuinam recitāstī?</p>
+<en-p>Who did you read it to?</en-p>
+<p>La. Rēctōrī scholae.</p>
 <en-p>To the principal.</en-p>
-<p>Ki. Si quid nescis, roga.</p>
+<p>Ki. Sī quid nescīs, rogā.</p>
 <en-p>If you don’t know something, ask.</en-p>
-<p>La. Qui hoc legam?</p>
+<p>La. Quī hōc legam?</p>
 <en-p>How should I read this?</en-p>
-<p>Ki. Collige litteras.</p>
+<p>Ki. Collige litterās.</p>
 <en-p>Sound out the letters.</en-p>
-<p>La. Tu me observa.</p>
+<p>La. Tū mē observā.</p>
 <en-p>Watch me.</en-p>
-<p>Ki. Ut haesitas lingua?</p>
-<en-p>Why are you hesitant in your speech?</en-p>
-<p>La. Sic assuetus sum.</p>
+<p>Ki. Ut haesitās linguā?</p>
+<en-p>Why are you choppy in your speech?</en-p>
+<p>La. Sīc assuētus sum.</p>
 <en-p>That’s what I’m used to.</en-p>
-<p>Ki. Desuesce rursus.</p>
+<p>Ki. Dēsuēsce rūrsus.</p>
 <en-p>Get unused to it.</en-p>
 <p>La. Pergam legere.</p>
 <en-p>I’ll keep reading.</en-p>
-<p>Ki. Iam verba praecipitas.</p>
+<p>Ki. Iam verba praecipitās.</p>
 <en-p>Now you’re rushing through the words.</en-p>
-<p>La. Tu melius doce.</p>
-<en-p>Teach me better.</en-p>
-<p>Ki. Sic distincte legas.</p>
+<p>La. Tū melius docē.</p>
+<en-p>Teach me to do better.</en-p>
+<p>Ki. Sīc distīnctē legās.</p>
 <en-p>You should read distinctly, like this.</en-p>
-<p>La. Tam clare haud queo.</p>
-<en-p>I can’t read that clearly.</en-p>
-<p>Ki. Usu addisce.</p>
+<p>La. Tam clārē haud queō.</p>
+<en-p>I can’t do it that clearly.</en-p>
+<p>Ki. Ūsū addisce.</p>
 <en-p>Learn it by practicing.</en-p>
-<p>La. Tentabo quid possim.</p>
+<p>La. Tentābō quid possim.</p>
 <en-p>I’ll see what I can do.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus X</h2>
-<head>De Cavendis In Schola Coricaeis</head>
-<en-head>Beware the Tattle-Tales in School</en-head>
-<speakers>Lucas, Marcus.</speakers>
+<head>Dē Cavendīs In Scholā Coricaeīs</head>
+<en-head>Beware the Informers in School</en-head>
+<speakers>Lūcās, Mārcus.</speakers>
 <spoken>
-<p>Lu. Cur tu sic mutis?</p>
+<p>Lū. Cūr tū sīc mūtīs?</p>
 <en-p>Why are you so quiet?</en-p>
-<p>Ma. Non audeo loqui.</p>
+<p>Mā. Nōn audeō loquī.</p>
 <en-p>I don’t dare speak.</en-p>
-<p>Lu. Quis te prohibet?</p>
+<p>Lū. Quis tē prohibet?</p>
 <en-p>Who’s telling you not to?</en-p>
-<p>Ma. Praeceptor noster.</p>
+<p>Mā. Praeceptor noster.</p>
 <en-p>Our teacher.</en-p>
-<p>Lu. Tamen is non adest.</p>
+<p>Lū. Tamen is nōn adest.</p>
 <en-p>But he’s not here.</en-p>
-<p>Ma. At Coricaei adsunt.</p>
-<en-p>But the tattle-tales are here.</en-p>
-<p>Lu. Quos Coricaeos dicis?</p>
-<en-p>What tattle-tales are you talking about?</en-p>
-<p>Ma. Qui clanculum nos signant.</p>
+<p>Mā. At Coricaeī adsunt.</p>
+<en-p>But the Informers are here.</en-p>
+<p>Lū. Quōs Coricaeōs dīcis?</p>
+<en-p>What Informer are you talking about?</en-p>
+<p>Mā. Quī clanculum nōs signant.</p>
 <en-p>The ones who are secretly writing notes about us.</en-p>
-<p>Lu. Nullum ex his nosti?</p>
+<p>Lū. Nūllum ex hīs nōstī?</p>
 <en-p>You don’t know any of them?</en-p>
-<p>Ma. Qui ego noscerem?</p>
+<p>Mā. Quī ego nōscerem?</p>
 <en-p>How would I know them?</en-p>
-<p>Lu. Tam caute rem agunt?</p>
+<p>Lū. Tam cautē rem agunt?</p>
 <en-p>They do it so cautiously?</en-p>
-<p>Ma. Ea est illis astutia.</p>
-<en-p>That’s their sneakiness.</en-p>
-<p>Lu. Tu loquere Latine.</p>
+<p>Mā. Ea est illīs āstūtia.</p>
+<en-p>That’s how sneaky they are.</en-p>
+<p>Lū. Tū loquere Latīnē.</p>
 <en-p>Speak in Latin.</en-p>
-<p>Ma. Quam vellem si scirem.</p>
+<p>Mā. Quam vellem sī scīrem.</p>
 <en-p>I would, if I knew how.</en-p>
-<p>Lu. At sic addisces citius.</p>
+<p>Lū. At sīc addiscēs citius.</p>
 <en-p>But that way you’ll learn faster.</en-p>
-<p>Ma. Hac spe dulcescit ferula.</p>
+<p>Mā. Hāc spē dulcēscit ferula.</p>
 <en-p>By this hope, the rod gets sweet.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XI</h2>
-<head>De Ferula</head>
+<head>Dē Ferulā</head>
 <en-head>The Rod</en-head>
-<speakers>Martinus, Nicolaus.</speakers>
+<speakers>!Martīnus, Nīcolāus.</speakers>
 <spoken>
-<p>Ma. Quis hic eiulat?</p>
+<p>Ma. Quis hīc eiulat?</p>
 <en-p>Who’s over here crying?</en-p>
 <p>Ni. Ego sum miser.</p>
 <en-p>I’m so miserable.</en-p>
-<p>Ma. Quo pacto miser es?</p>
+<p>Ma. Quō pactō miser es?</p>
 <en-p>What are you miserable about?</en-p>
-<p>Ni. Virgis caesus sum.</p>
-<en-p>I got beaten by whips.</en-p>
-<p>Ma. Quid commeruisti?</p>
+<p>Ni. Virgīs caesus sum.</p>
+<en-p>I got beaten with switches.</en-p>
+<p>Ma. Quid commeruistī?</p>
 <en-p>What did you do wrong?</en-p>
 <p>Ni. Nihil didiceram.</p>
 <en-p>I hadn’t learned anything.</en-p>
-<p>Ma. Merito caesus es.</p>
-<en-p>You were beaten deservedly.</en-p>
-<p>Ni. Etiam tu me ludis?</p>
+<p>Ma. Meritō caesus es.</p>
+<en-p>You deserved your beating.</en-p>
+<p>Ni. Etiam tū mē lūdis?</p>
 <en-p>Are you making fun of me, too?</en-p>
-<p>Ma. Cur autem non didiceras?</p>
+<p>Ma. Cūr autem nōn didicerās?</p>
 <en-p>But why hadn’t you learned anything?</en-p>
-<p>Ni. Posthac ero cautior.</p>
+<p>Ni. Posthāc erō cautior.</p>
 <en-p>I’ll be more careful after this.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XII</h2>
-<head>De Ientaculo</head>
+<head>Dē Ientāculō</head>
 <en-head>Breakfast</en-head>
-<speakers>Naevius, Osualdus.</speakers>
+<speakers>Naevius, !Osualdus.</speakers>
 <spoken>
-<p>Næ. Quo tu nunc abis?</p>
-<en-p>Where are you going off to?</en-p>
-<p>Os. Domum me confero.</p>
-<en-p>I’m heading home.</en-p>
-<p>Næ. Quid domi ages?</p>
+<p>Næ. Quō tū nunc abīs?</p>
+<en-p>Where are you heading off to?</en-p>
+<p>Os. Domum mē cōnferō.</p>
+<en-p>I’m going home.</en-p>
+<p>Næ. Quid domī agēs?</p>
 <en-p>What’ll you do at home?</en-p>
-<p>Os. Sumam ientaculum.</p>
-<en-p>I eating breakfast.</en-p>
-<p>Næ. Quanam iturus es?</p>
+<p>Os. Sūmam ientāculum.</p>
+<en-p>I'll get breakfast.</en-p>
+<p>Næ. Quānam itūrus es?</p>
 <en-p>Which way are you gonna go?</en-p>
-<p>Os. Hac per forum.</p>
+<p>Os. Hāc per forum.</p>
 <en-p>This way, through the square.</en-p>
-<p>Næ. Comitabor te.</p>
+<p>Næ. Comitābor tē.</p>
 <en-p>I’ll go with you.</en-p>
 <p>Os. Nihil opus est.</p>
 <en-p>It’s not necessary.</en-p>
-<p>Næ. Aversaris me?</p>
+<p>Næ. Āversāris mē?</p>
 <en-p>Are you avoiding me?</en-p>
-<p>Os. Non, sed parco.</p>
+<p>Os. Nōn, sed parcō.</p>
 <en-p>No, but I am giving you a break.</en-p>
 <p>Næ. Nihil est quod agam.</p>
 <en-p>There’s nothing else I’d do.</en-p>
-<p>Os. Lubens te accipio.</p>
+<p>Os. Lubēns tē accipiō.</p>
 <en-p>I’ll gladly take you along.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XIII</h2>
-<head>De Reditu A Ientaculo</head>
+<head>Dē Reditū Ā Ientāculō</head>
 <en-head>Returning from Breakfast</en-head>
-<speakers>Onophrius, Paulus.</speakers>
+<speakers>!Onophrius, Paulus.</speakers>
 <spoken>
-<p>On. Unde nobis redis?</p>
+<p>On. Unde nōbīs redīs?</p>
 <en-p>Where are you coming back from?</en-p>
-<p>Pa. A ientaculo.</p>
+<p>Pa. Ā ientāculō.</p>
 <en-p>From breakfast.</en-p>
-<p>On. Ubi ientasti?</p>
-<en-p>Where did you eat breakfast.</en-p>
-<p>Pa. Rogas? domi meae.</p>
+<p>On. Ubi ientāstī?</p>
+<en-p>Where did you eat breakfast?</en-p>
+<p>Pa. Rogās? domī meae.</p>
 <en-p>You’re asking? At my house.</en-p>
-<p>On. Quid ientasti?</p>
-<en-p>What did you eat for breakfast?</en-p>
-<p>Pa. Panem iurulentum.</p>
-<en-p>A trencher.</en-p>
-<p>On. Quis tecum ientavit?</p>
+<p>On. Quid ientāstī?</p>
+<en-p>What did you have for breakfast?</en-p>
+<p>Pa. Pānem iūrulentum.</p>
+<en-p>Bread and gravy.</en-p>
+<p>On. Quis tēcum ientāvit?</p>
 <en-p>Who ate breakfast with you?</en-p>
-<p>Pa. Tota familia.</p>
+<p>Pa. Tōta familia.</p>
 <en-p>The whole family.</en-p>
 <p>On. Nihil mihi adfers?</p>
 <en-p>You’re not bringing me anything?</en-p>
 <p>Pa. Quid adferrem tibi?</p>
 <en-p>What should I bring you?</en-p>
-<p>On. Frustum panis.</p>
+<p>On. Frustum pānis.</p>
 <en-p>A bread crust.</en-p>
-<p>Pa. Panem quidem habeo.</p>
+<p>Pa. Pānem quidem habeō.</p>
 <en-p>I do have bread.</en-p>
 <p>On. Cedo mihi partem.</p>
 <en-p>Give me a piece.</en-p>
-<p>Pa. Accipe dimidium.</p>
+<p>Pa. Accipe dīmidium.</p>
 <en-p>Take half.</en-p>
-<p>On. Ago tibi gratias.</p>
+<p>On. Agō tibi grātiās.</p>
 <en-p>Thank you.</en-p>
-<p>Pa. Non age, sed refer.</p>
+<p>Pa. Nōn age, sed refer.</p>
 <en-p>Don’t thank; return the favor.</en-p>
-<p>On. Non est unde referam.</p>
+<p>On. Nōn est unde referam.</p>
 <en-p>There’s nothing I can return it with.</en-p>
-<p>Pa. Non semper egebis.</p>
+<p>Pa. Nōn semper egēbis.</p>
 <en-p>You won’t always be needy.</en-p>
-<p>On. Gratum me reperies.</p>
+<p>On. Grātum mē reperiēs.</p>
 <en-p>You’ll find me grateful.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XIV</h2>
-<head>De Parando Calamo</head>
+<head>Dē Parandō Calamō</head>
 <en-head>Getting a Pen Ready</en-head>
-<speakers>Petrus, Quirinus.</speakers>
+<speakers>Petrus, Quirīnus.</speakers>
 <spoken>
-<p>Pe. Para mihi hanc pennam.</p>
+<p>Pe. Parā mihi hanc pennam.</p>
 <en-p>Get this pen ready for me.</en-p>
 <p>Qu. Est tibi cultellus?</p>
 <en-p>Do you have a penknife?</en-p>
-<p>Pe. Est, sed valde hebes.</p>
-<en-p>I do, but it’s very blunt.</en-p>
-<p>Qu. Acutiorem adfer.</p>
+<p>Pe. Est, sed valdē hebēs.</p>
+<en-p>I do, but it’s very dull.</en-p>
+<p>Qu. Acūtiōrem adfer.</p>
 <en-p>Bring a sharper one.</en-p>
 <p>Pe. Ubi accipiam?</p>
 <en-p>Where will I get one?</en-p>
-<p>Qu. Utendum expete.</p>
-<en-p>Ask to use one.</en-p>
-<p>Pe. Adfero, utere.</p>
+<p>Qu. Ūtendum expete.</p>
+<en-p>Borrow one.</en-p>
+<p>Pe. Adferō, ūtere.</p>
 <en-p>I’ve got one; use it.</en-p>
-<p>Qu. Vis crassam, an tenuem?</p>
+<p>Qu. Vīs crassam, an tenuem?</p>
 <en-p>Do you want it thick, or thin?</en-p>
-<p>Pe. Mediam volo.</p>
+<p>Pe. Mediam volō.</p>
 <en-p>I want it medium.</en-p>
-<p>Qu. Da atramentum.</p>
+<p>Qu. Dā ātrāmentum.</p>
 <en-p>Give me some ink.</en-p>
-<p>Pe. En atramentarium.</p>
-<en-p>Here’s some ink.</en-p>
-<p>Qu. Da quoque papyrum.</p>
+<p>Pe. Ēn ātrāmentārium.</p>
+<en-p>Here’s the inkwell.</en-p>
+<p>Qu. Dā quoque papȳrum.</p>
 <en-p>Give me some paper, too.</en-p>
-<p>Pe. Et haec in promptu est.</p>
+<p>Pe. Et haec in prōmptū est.</p>
 <en-p>And here’s some ready.</en-p>
-<p>Qu. Papyrus perfluit.</p>
+<p>Qu. Papȳrus perfluit.</p>
 <en-p>The paper is soaking through.</en-p>
-<p>Pe. Non habeo aliam.</p>
+<p>Pe. Nōn habeō aliam.</p>
 <en-p>I don’t have another sheet.</en-p>
-<p>Qu. Quid vis ut scribam?</p>
+<p>Qu. Quid vīs ut scrībam?</p>
 <en-p>What do you want me to write?</en-p>
-<p>Pe. Praescribe literas.</p>
-<en-p>Write the letters first.</en-p>
-<p>Qu. Tu imitaberis?</p>
-<en-p>You will imitate them?</en-p>
-<p>Pe. Ita, in hoc peto.</p>
-<en-p>Yes, that’s what I’m asking for.</en-p>
-<p>Qu. Saepe exscribe.</p>
+<p>Pe. Praescrībe lītterās.</p>
+<en-p>Draw the letters.</en-p>
+<p>Qu. Tū imitāberis?</p>
+<en-p>You'll imitate them?</en-p>
+<p>Pe. Ita, in hōc petō.</p>
+<en-p>Yes, that’s why I’m asking.</en-p>
+<p>Qu. Saepe exscrībe.</p>
 <en-p>Write them out often.</en-p>
-<p>Pe. Faciam ut iubes.</p>
+<p>Pe. Faciam ut iubēs.</p>
 <en-p>I will do as you say.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XV</h2>
-<head>Inter Redeundum A Schola</head>
-<en-head>While Returning Back From School</en-head>
-<speakers>Quintius, Rudolphus.</speakers>
+<head>Inter Redeundum Ā Scholā</head>
+<en-head>While Returning From School</en-head>
+<speakers>Quīntius, !Rudolphus.</speakers>
 <spoken>
-<p>Qu. Ut tecum agitur?</p>
+<p>Qu. Ut tēcum agitur?</p>
 <en-p>How’s it going with you?</en-p>
-<p>Ru. Bene mecum agitur.</p>
+<p>Ru. Bene mēcum agitur.</p>
 <en-p>It’s going well with me.</en-p>
-<p>Qu. Id lubens audio.</p>
+<p>Qu. Id lubēns audiō.</p>
 <en-p>I’m glad to hear it.</en-p>
-<p>Ru. Gratiam habeo.</p>
+<p>Ru. Grātiam habeō.</p>
 <en-p>Thank you.</en-p>
-<p>Qu. Ubi iam fuisti?</p>
+<p>Qu. Ubi iam fuistī?</p>
 <en-p>Where have you been, now?</en-p>
-<p>Ru. In ludo litterario.</p>
+<p>Ru. In lōdō litterāriō.</p>
 <en-p>In the literature school.</en-p>
-<p>Qu. Quorsum sic properas?</p>
-<en-p>Where are you hurrying to now?</en-p>
+<p>Qu. Quōrsum sīc properās?</p>
+<en-p>Where are you hurrying to like that?</en-p>
 <p>Ru. Domum versus.</p>
 <en-p>Towards home.</en-p>
-<p>Qu. Quid domi ages?</p>
+<p>Qu. Quid domī agēs?</p>
 <en-p>What will you do at home?</en-p>
-<p>Ru. Adornabo mensam.</p>
+<p>Ru. Adōrnabō mēnsam.</p>
 <en-p>I’ll set the table.</en-p>
-<p>Qu. Tam mane prandes?</p>
-<en-p>You have lunch so early?</en-p>
-<p>Ru. Obsequor parenti.</p>
-<en-p>I’m doing what my dad wants.</en-p>
-<p>Qu. Facis ut te decet.</p>
+<p>Qu. Tam māne prandēs?</p>
+<en-p>You have lunch that early?</en-p>
+<p>Ru. Obsequor parentī.</p>
+<en-p>I do what my dad wants.</en-p>
+<p>Qu. Facis ut tē decet.</p>
 <en-p>You’re doing what’s right.</en-p>
-<p>Ru. Abeo, tu vale.</p>
+<p>Ru. Abeō, tū valē.</p>
 <en-p>I’m going; take care.</en-p>
-<p>Qu. Tu quoque vale.</p>
+<p>Qu. Tū quoque valē.</p>
 <en-p>You take care, too.</en-p>
 </spoken>
 </section>
 
 <section>
 <h2>Dialogus XVI</h2>
-<head>Dum Instruitur Mensa</head>
+<head>Dum Īnstruitur Mēnsa</head>
 <en-head>While the Table Is Set</en-head>
-<speakers>Remigius, Sebaldus.</speakers>
+<speakers>!Remigius, !Sebaldus.</speakers>
 <spoken>
 <p>Re. Puer, ubi es?</p>
 <en-p>Where are you, boy?</en-p>
-<p>Se. Adsum, quid me vis?</p>
-<en-p>I’m here; what do you want?</en-p>
-<p>Re. Instrue mensam.</p>
+<p>Se. Adsum, quid mē vīs?</p>
+<en-p>I’m here; what do you need me for?</en-p>
+<p>Re. Īnstrue mēnsam.</p>
 <en-p>Set the table.</en-p>
-<p>Se. Est tempus prandio?</p>
+<p>Se. Est tempus prandiō?</p>
 <en-p>Is it time for lunch?</en-p>
-<p>Re. Est, quando sic libet.</p>
+<p>Re. Est, quandō sīc libet.</p>
 <en-p>It is, when it so pleases.</en-p>
-<p>Se. Recte curabitur.</p>
+<p>Se. Rēctē cūrābitur.</p>
 <en-p>It will be taken care of properly.</en-p>
-<p>Re. Porrige cultros.</p>
+<p>Re. Porrige cultrōs.</p>
 <en-p>Get out the knives.</en-p>
-<p>Se. In promptu sunt.</p>
+<p>Se. In prōmptū sunt.</p>
 <en-p>They are ready.</en-p>
-<p>Re. Da mappas manuarias.</p>
-<en-p>Give the napkins.</en-p>
+<p>Re. Dā mappās manuāriās.</p>
+<en-p>Give me the napkins.</en-p>
 <p>Se. Et istae adsunt.</p>
 <en-p>And those are here.</en-p>
-<p>Re. Adpone salinum.</p>
+<p>Re. Adpōne salīnum.</p>
 <en-p>Set up the salt shaker.</en-p>
-<p>Se. Prius sale implebo.</p>
+<p>Se. Prius sale implēbō.</p>
 <en-p>First I’ll fill it with salt.</en-p>
-<p>Re. Elue calices.</p>
+<p>Re. Ēlue calicēs.</p>
 <en-p>Clean the glasses.</en-p>
-<p>Se. Dudum lavi.</p>
-<en-p>I just now washed them.</en-p>
-<p>Re. Adfer orbes.</p>
+<p>Se. Dūdum lāvī.</p>
+<en-p>I now washed them.</en-p>
+<p>Re. Adfer orbēs.</p>
 <en-p>Bring over the plates.</en-p>
-<p>Se. In scamno iacent.</p>
+<p>Se. In scamnō iacent.</p>
 <en-p>They’re lying on the stool.</en-p>
-<p>Re. Et corbem cocleariam.</p>
+<p>Re. Et corbem cocleāriam.</p>
 <en-p>And the spoon basket.</en-p>
-<p>Se. E paxillo pendet.</p>
+<p>Se. Ē paxillō pendet.</p>
 <en-p>It’s hanging on the peg.</en-p>
-<p>Re. Apta circulum.</p>
-<en-p>Set up the soup plate.</en-p>
-<p>Se. Nunquid aliud vis?</p>
+<p>Re. Aptā circulum.</p>
+<en-p>Set up the basin.</en-p>
+<p>Se. Nunquid aliud vīs?</p>
 <en-p>Do you want anything else?</en-p>
-<p>Re. Nunc mores discas.</p>
+<p>Re. Nunc mōrēs discās.</p>
 <en-p>Now you should learn manners.</en-p>
-<p>Se. Quos mores discam?</p>
+<p>Se. Quōs mōrēs discam?</p>
 <en-p>What manners should I learn?</en-p>
-<p>Re. Quos in mensa serves.</p>
+<p>Re. Quōs in mensā servēs.</p>
 <en-p>The ones you should mind at the table.</en-p>
-<p>Se. Rogo me doceas.</p>
+<p>Se. Rogō mē doceās.</p>
 <en-p>I ask you to teach me.</en-p>
-<p>Re. Perlubens hoc faciam.</p>
+<p>Re. Perlubēns hōc faciam.</p>
 <en-p>I will do that very gladly.</en-p>
-<p>Se. Ego auscultabo.</p>
+<p>Se. Ego auscultābō.</p>
 <en-p>I will listen.</en-p>
-<p>Re. Ne me interpella.</p>
+<p>Re. Nē mē interpellā.</p>
 <en-p>Don’t interrupt me.</en-p>
 <p>Se. Haud verbum faciam.</p>
 <en-p>I won’t say a word.</en-p>
-<p>Re. Primo ungues purga. Hinc manus lava. Mox Deo benedicas. 
-  Deus pater noster caelestis benedicat nobis filiis suis et his 
-  quae iam sumus sumpturi, per Christum dominum nostrum, Amen. 
-  Post decenter accumbe. Cibos carpe digitis. Ne conde volā. 
-  Primus ne esto esu. Nec primum bibas. Cubitis ne te fulcias. 
-  Erectus sede. Nec pandas brachia. Non bibas avide. Nec mandas 
-  avide. Proxima te carpe. In orbe ne morare. Alios ne inspicito. 
-  Bibiturus os terge. Non manu, sed mappula. Morsa ne redintinge. 
-  Ne linge digitos. Nec ossa rodas. Quaeque scinde cultro. 
-  Os non perungas. Digitos saepe terge. Nares ne fode. Non 
-  rogatus taceas. Quod satis est ede. Cum satur es surge. Rursus 
-  lava manus. Mensalia tolle. Deo gratias age. Qui nos creavit, 
-  redemit et pavit, illi gratias agimus sempiternas, per Iesum 
-  Christum dominum nostrum, Amen.</p>
-<en-p>First clean your nails. Then wash your hands. Next praise God. “May God, our heavenly Father, bless us his children and these things we are about to receive, through Christ Our Lord, amen.” After that sit down properly. Take food with your fingers. Don’t hold it in your fist. Don’t be the first to eat. And don’t drink first. Don’t lean on your elbows. Sit straight. Don’t spread out your arms. Don’t drink greedily. And don’t chew greedily. Take the things closest to you. Don’t get absorbed in your plate. Don’t stare at other people. Wipe your mouth before you drink. Not with your hand; with your napkin. Don’t double-dip. Don’t lick your fingers. And don’t gnaw the bones. Cut things with your knife. Don’t smear stuff on your mouth. Wipe your fingers often. Don’t pick your nose. Be quiet if you’re not asked anything. Eat what is sufficient. When it’s enough, get up. Wash your hands again. Pick up the stuff on the table. Give thanks to God. “Who has created us, redeemed, and fed, to Him we give thanks forever, through Jesus Christ Our Lord, amen.</en-p>
+<p>Re. Prīmō unguēs pūrgā.</p>
+<en-p>First clean your nails.</en-p>
+<p>Hinc manūs lavā.</p>
+<en-p>Then wash your hands.</en-p>
+<p>Mox Deō benedīcās.</p>
+<en-p>Next praise God.</en-p>
+<p>Deus pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs 
+quae iam sumus sūmptūrī, per Chrīstum dominum nostrum, Āmēn.</p>
+<en-p>"May God, our heavenly Father, bless us His children and these things we are about to receive, through Christ Our Lord, amen."</en-p>
+<p>Post decenter accumbe.</p>
+<en-p>After that sit down properly.</en-p>
+<p>Cibōs carpe digitīs.</p>
+<en-p>Take food with your fingers.</en-p>
+<p>Nē conde volā.</p>
+<en-p>Don't hold it in your fist.</en-p>
+<p>Prīmus nē estō ēsū.</p>
+<en-p>Don't be the first to eat.</en-p>
+<p>Nec prīmum bibās.</p>
+<en-p>And don't drink first.</en-p>
+<p>Cubitīs nē tē fulciās.</p>
+<en-p>Don't lean on your elbows.</en-p>
+<p>Ērēctus sedē.</p>
+<en-p>Sit straight.</en-p>
+<p>Nec pandās brāchia.</p>
+<en-p>Don’t spread out your arms.</en-p>
+<p>Nōn bibās avidē.</p>
+<en-p>Don’t drink greedily.</en-p>
+<p>Nec mandās avidē.</p>
+<en-p>And don’t chew greedily.</en-p>
+<p>Proxima tē carpe.</p>
+<en-p>Take the things closest to you.</en-p>
+<p>In orbe nē morāre.</p>
+<en-p>Don’t get absorbed in your plate.</en-p>
+<p>Aliōs nē īnspicitō.</p>
+<en-p>Don’t stare at other people.</en-p>
+<p>Bibitūrus ōs terge.</p>
+<en-p>Wipe your mouth before you drink.</en-p>
+<p>Nōn manū, sed mappulā.</p>
+<en-p>Not with your hand; with your napkin.</en-p>
+<p>Morsa nē redintinge.</p>
+<en-p>Don’t double-dip.</en-p>
+<p>Nē linge digitōs.</p>
+<en-p>Don’t lick your fingers.</en-p>
+<p>Nec ossa rōdās.</p>
+<en-p>And don’t gnaw the bones.</en-p>
+<p>Quaeque scinde cultrō.</p>
+<en-p>Cut things with your knife.</en-p>
+<p>Ōs nōn perungās.</p>
+<en-p>Don’t smear stuff on your mouth.</en-p>
+<p>Digitōs saepe terge.</p>
+<en-p>Wipe your fingers often.</en-p>
+<p>Nārēs nē fode.</p>
+<en-p>Don’t pick your nose.</en-p>
+<p>Nōn rogātus taceās.</p>
+<en-p>Be quiet if you’re not asked anything.</en-p>
+<p>Quod satis est ēde.</p>
+<en-p>Eat what is sufficient.</en-p>
+<p>Cum satur es surge.</p>
+<en-p>When you've had enough, get up.</en-p>
+<p>Rūrsus lavā manūs.</p>
+<en-p>Wash your hands again.</en-p>
+<p>Mēnsālia tolle.</p>
+<en-p>Pick up the stuff on the table.</en-p>
+<p>Deō grātiās age.</p>
+<en-p>Give thanks to God.</en-p>
+<p>Quī nōs creāvit, redēmit et pāvit, illī grātiās agimus sempiternās, per Iēsum Chrīstum dominum nostrum, Āmēn.</p>
+<en-p>“Who has created us, redeemed, and fed, to Him we give thanks forever, through Jesus Christ Our Lord, amen.</en-p>
 </spoken>
 </section>
 
