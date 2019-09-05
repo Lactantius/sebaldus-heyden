@@ -1,2207 +1,2207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content>
-<h1>Sebaldus Heyden Fōrmulae Puerīlium Colloquiōrum</h1>
+  <h1>Sebaldus Heyden Fōrmulae Puerīlium Colloquiōrum</h1>
 
-<section>
-<h2>Dialogus I</h2>
-<head>Salūtātiō Mātūtīna</head>
-<en-head>Morning Greeting</en-head>
-<speakers>Andrēās, !Balthasar.</speakers>
-<spoken>
-<tablerow>
-<p>An. Bonus dies.</p>
-<en-p>Good day.</en-p>
-</tablerow>
-<tablerow>
-<p>Ba. Deō grātiās.</p>
-<en-p>Thank God.</en-p>
-</tablerow>
-<tablerow>
-<p>An. Optō tibi bonum diem.</p>
-<en-p>I hope you have a good day.</en-p>
-</tablerow>
-<tablerow>
-<p>Ba. Tālem et tibi precor.</p>
-<en-p>Such I also pray for you.</en-p>
-</tablerow>
-<tablerow>
-<p>An. Bene sit tibi hōc diē.</p>
-<en-p>May everything go well for you today.</en-p>
-</tablerow>
-<tablerow>
-<p>Ba. Nec tibi male sit.</p>
-<en-p>And not badly for you.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus I</h2>
+    <head>Salūtātiō Mātūtīna</head>
+    <en-head>Morning Greeting</en-head>
+    <speakers>Andrēās, !Balthasar.</speakers>
+    <spoken>
+      <tablerow>
+        <p>An. Bonus dies.</p>
+        <en-p>Good day.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ba. Deō grātiās.</p>
+        <en-p>Thank God.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>An. Optō tibi bonum diem.</p>
+        <en-p>I hope you have a good day.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ba. Tālem et tibi precor.</p>
+        <en-p>Such I also pray for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>An. Bene sit tibi hōc diē.</p>
+        <en-p>May everything go well for you today.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ba. Nec tibi male sit.</p>
+        <en-p>And not badly for you.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus II</h2>
-<head>Salūtātiō Merīdiāna</head>
-<en-head>Noon Greeting</en-head>
-<speakers>!Blāsius, Clēmēns.</speakers>
-<spoken>
-<tablerow>
-<p>Bl. Salve Clēmēns.</p>
-<en-p>Hello, Clement.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Salvē et tū.</p>
-<en-p>Hello to you, too.</en-p>
-</tablerow>
-<tablerow>
-<p>Bl. Salvē plūrimum.</p>
-<en-p>I hope you are very well.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Et tū tantundem salvē.</p>
-<en-p>And I hope you are just as well.</en-p>
-</tablerow>
-<tablerow>
-<p>Bl. Salvus sīs tū.</p>
-<en-p>May you be well.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Tū quoque salvē.</p>
-<en-p>And you also be well.</en-p>
-</tablerow>
-<tablerow>
-<p>Bl. Salūtem tibi precor.</p>
-<en-p>I pray that you have good health.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Eandem et tibi optō.</p>
-<en-p>And I hope the same for you.</en-p>
-</tablerow>
-<tablerow>
-<p>Bl. Salūte tē impertior.</p>
-<en-p>I impart health to you.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Et ego quoque tē.</p>
-<en-p>And I also to you.</en-p>
-</tablerow>
-<tablerow>
-<p>Bl. Iubeō tē salvēre.</p>
-<en-p>I command you to be well.</en-p>
-</tablerow>
-<tablerow>
-<p>Cl. Tē quoque ego.</p>
-<en-p>I also command you.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus II</h2>
+    <head>Salūtātiō Merīdiāna</head>
+    <en-head>Noon Greeting</en-head>
+    <speakers>!Blāsius, Clēmēns.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Bl. Salve Clēmēns.</p>
+        <en-p>Hello, Clement.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Salvē et tū.</p>
+        <en-p>Hello to you, too.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bl. Salvē plūrimum.</p>
+        <en-p>I hope you are very well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Et tū tantundem salvē.</p>
+        <en-p>And I hope you are just as well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bl. Salvus sīs tū.</p>
+        <en-p>May you be well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Tū quoque salvē.</p>
+        <en-p>And you also be well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bl. Salūtem tibi precor.</p>
+        <en-p>I pray that you have good health.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Eandem et tibi optō.</p>
+        <en-p>And I hope the same for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bl. Salūte tē impertior.</p>
+        <en-p>I impart health to you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Et ego quoque tē.</p>
+        <en-p>And I also to you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bl. Iubeō tē salvēre.</p>
+        <en-p>I command you to be well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cl. Tē quoque ego.</p>
+        <en-p>I also command you.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus III</h2>
-<head>Salūtātiō Vespertīna</head>
-<en-head>Evening Greeting</en-head>
-<speakers>!Carolus, Dēmētrius.</speakers>
-<spoken>
-<tablerow>
-<p>Ca. Bonus vesper.</p>
-<en-p>Good evening.</en-p>
-</tablerow>
-<tablerow>
-<p>De. Grātia Deō.</p>
-<en-p>Thanks be to God.</en-p>
-</tablerow>
-<tablerow>
-<p>Ca. Bonum sērum.</p>
-<en-p>Good twilight.</en-p>
-</tablerow>
-<tablerow>
-<p>De. Laus Creātōrī.</p>
-<en-p>Praise be to the Creator.</en-p>
-</tablerow>
-<tablerow>
-<p>Ca. Hic vesper fēlīx sit tibi.</p>
-<en-p>May this evening be happy for you.</en-p>
-</tablerow>
-<tablerow>
-<p>De. Nec tibi infēlīx sit.</p>
-<en-p>And may it not be unhappy for you.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus III</h2>
+    <head>Salūtātiō Vespertīna</head>
+    <en-head>Evening Greeting</en-head>
+    <speakers>!Carolus, Dēmētrius.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ca. Bonus vesper.</p>
+        <en-p>Good evening.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>De. Grātia Deō.</p>
+        <en-p>Thanks be to God.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ca. Bonum sērum.</p>
+        <en-p>Good twilight.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>De. Laus Creātōrī.</p>
+        <en-p>Praise be to the Creator.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ca. Hic vesper fēlīx sit tibi.</p>
+        <en-p>May this evening be happy for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>De. Nec tibi infēlīx sit.</p>
+        <en-p>And may it not be unhappy for you.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus IV</h2>
-<head>Sub Prīmam Facem Noctis</head>
-<en-head>At the Night’s First Watch</en-head>
-<speakers>!Detius, !Eustachius.</speakers>
-<spoken>
-<tablerow>
-<p>De. Sit tibi haec nox fēlīx.</p>
-<en-p>May this night be happy for you.</en-p>
-</tablerow>
-<tablerow>
-<p>Eu. Et tibi fausta haec sit.</p>
-<en-p>And may it be fortunate for you.</en-p>
-</tablerow>
-<tablerow>
-<p>De. Faustam dēgās noctem.</p>
-<en-p>May you spend a fortunate night.</en-p>
-</tablerow>
-<tablerow>
-<p>Eu. Tū quoque nōn infaustam.</p>
-<en-p>You also, not an unfortunate one.</en-p>
-</tablerow>
-<tablerow>
-<p>De. Nox istaec vōbīs commodet.</p>
-<en-p>May this your night go well for you.</en-p>
-</tablerow>
-<tablerow>
-<p>Eu. Et tibi nōn incommodet.</p>
-<en-p>And may it non go badly for you.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus IV</h2>
+    <head>Sub Prīmam Facem Noctis</head>
+    <en-head>At the Night’s First Watch</en-head>
+    <speakers>!Detius, !Eustachius.</speakers>
+    <spoken>
+      <tablerow>
+        <p>De. Sit tibi haec nox fēlīx.</p>
+        <en-p>May this night be happy for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Eu. Et tibi fausta haec sit.</p>
+        <en-p>And may it be fortunate for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>De. Faustam dēgās noctem.</p>
+        <en-p>May you spend a fortunate night.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Eu. Tū quoque nōn infaustam.</p>
+        <en-p>You also, not an unfortunate one.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>De. Nox istaec vōbīs commodet.</p>
+        <en-p>May this your night go well for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Eu. Et tibi nōn incommodet.</p>
+        <en-p>And may it non go badly for you.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus V</h2>
-<head>Dum Ītur Cubitum</head>
-<en-head>While Going to Bed</en-head>
-<speakers>Fēlīx, !Gaspar.</speakers>
-<spoken>
-<tablerow>
-<p>Fē. Quota est hōra?</p>
-<en-p>What time is it?</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Sonuit tertiam.</p>
-<en-p>The third hour has rung.</en-p>
-<tablerow>
-</tablerow>
-<p>Fē. Eundum est cubitum.</p>
-<en-p>We should go to bed.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Nōn !dormītūriō.</p>
-<en-p>I won’t go to sleep.</en-p>
-<tablerow>
-</tablerow>
-<p>Fē. At ego oppidō.</p>
-<en-p>But I will, for sure.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Tū eās cubitum.</p>
-<en-p>You can go to bed.</en-p>
-<tablerow>
-</tablerow>
-<p>Fē. Quid tū autem agēs?</p>
-<en-p>So what are you gonna do?</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Pergam legere.</p>
-<en-p>I’ll keep reading.</en-p>
-<tablerow>
-</tablerow>
-<p>Fē. Mālō quiēscere.</p>
-<en-p>I’d rather rest.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Facesse hinc, Endymiōn.</p>
-<en-p>Do it somewhere else, Endymion.</en-p>
-<tablerow>
-</tablerow>
-<p>Fē. Haud tē impedīverō.</p>
-<en-p>I won’t stop you from anything.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus V</h2>
+    <head>Dum Ītur Cubitum</head>
+    <en-head>While Going to Bed</en-head>
+    <speakers>Fēlīx, !Gaspar.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Fē. Quota est hōra?</p>
+        <en-p>What time is it?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Sonuit tertiam.</p>
+        <en-p>The third hour has rung.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Fē. Eundum est cubitum.</p>
+        <en-p>We should go to bed.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Nōn !dormītūriō.</p>
+        <en-p>I won’t go to sleep.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Fē. At ego oppidō.</p>
+        <en-p>But I will, for sure.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Tū eās cubitum.</p>
+        <en-p>You can go to bed.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Fē. Quid tū autem agēs?</p>
+        <en-p>So what are you gonna do?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Pergam legere.</p>
+        <en-p>I’ll keep reading.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Fē. Mālō quiēscere.</p>
+        <en-p>I’d rather rest.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Facesse hinc, Endymiōn.</p>
+        <en-p>Do it somewhere else, Endymion.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Fē. Haud tē impedīverō.</p>
+        <en-p>I won’t stop you from anything.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus VI</h2>
-<head>Dum Redītur Cubitū</head>
-<en-head>While Getting Up</en-head>
-<speakers>!Gabriel, Henrīcus.</speakers>
-<spoken>
-<tablerow>
-<p>Ga. Heus, expergīscere.</p>
-<en-p>Hey, get going.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Sine ut dormiam.</p>
-<en-p>Let me sleep.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Surgendī tempus est.</p>
-<en-p>It’s time to get up.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Nōndum dīlūxit.</p>
-<en-p>It’s not light yet.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Aperī oculōs.</p>
-<en-p>Open your eyes.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Adhūc gravantur somnō.</p>
-<en-p>They’re still heavy with sleep.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Es glīre somnolentior.</p>
-<en-p>You’re sleepier than a dormouse.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Rogō nē sīs molestus.</p>
-<en-p>I’m asking you to quit being annoying.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Nōn pudet tē, asine?</p>
-<en-p>Aren’t you ashamed, you donkey?</en-p>
-<tablerow>
-</tablerow>
-<p>He. Cuius mē pudeat?</p>
-<en-p>What should I be ashamed of?</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. In multam lūcem stertere.</p>
-<en-p>Snoring into broad daylight.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Quotam hōram sonuit?</p>
-<en-p>What time has it rung?</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Iam imminet prīma.</p>
-<en-p>The first hour is coming up.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Adhūc parum dormiam.</p>
-<en-p>I’ll still sleep a little.</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Quīn surgis, piger?</p>
-<en-p>Why don’t you get up, you bum?</en-p>
-<tablerow>
-</tablerow>
-<p>He. Quōmodo tam māne?</p>
-<en-p>How can I so early?</en-p>
-<tablerow>
-</tablerow>
-<p>Ga. Mox fuste tē excitābō.</p>
-<en-p>I’m gonna wake you up with a stick soon.</en-p>
-<tablerow>
-</tablerow>
-<p>He. Iam surgō, parce precor.</p>
-<en-p>I’m getting up now; please, let me be.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus VI</h2>
+    <head>Dum Redītur Cubitū</head>
+    <en-head>While Getting Up</en-head>
+    <speakers>!Gabriel, Henrīcus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ga. Heus, expergīscere.</p>
+        <en-p>Hey, get going.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Sine ut dormiam.</p>
+        <en-p>Let me sleep.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Surgendī tempus est.</p>
+        <en-p>It’s time to get up.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Nōndum dīlūxit.</p>
+        <en-p>It’s not light yet.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Aperī oculōs.</p>
+        <en-p>Open your eyes.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Adhūc gravantur somnō.</p>
+        <en-p>They’re still heavy with sleep.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Es glīre somnolentior.</p>
+        <en-p>You’re sleepier than a dormouse.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Rogō nē sīs molestus.</p>
+        <en-p>I’m asking you to quit being annoying.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Nōn pudet tē, asine?</p>
+        <en-p>Aren’t you ashamed, you donkey?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Cuius mē pudeat?</p>
+        <en-p>What should I be ashamed of?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. In multam lūcem stertere.</p>
+        <en-p>Snoring into broad daylight.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Quotam hōram sonuit?</p>
+        <en-p>What time has it rung?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Iam imminet prīma.</p>
+        <en-p>The first hour is coming up.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Adhūc parum dormiam.</p>
+        <en-p>I’ll still sleep a little.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Quīn surgis, piger?</p>
+        <en-p>Why don’t you get up, you bum?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Quōmodo tam māne?</p>
+        <en-p>How can I so early?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ga. Mox fuste tē excitābō.</p>
+        <en-p>I’m gonna wake you up with a stick soon.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>He. Iam surgō, parce precor.</p>
+        <en-p>I’m getting up now; please, let me be.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus VII</h2>
-<head>Dum Ītur Ad Scholam</head>
-<en-head>While Heading for School</en-head>
-<speakers>Hannō, Iōannēs.</speakers>
-<spoken>
-<tablerow>
-<p>Ha. Heu, quid facimus?</p>
-<en-p>Hey, what are we doing?</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Cūr sīc vōciferās?</p>
-<en-p>Why are you shouting?</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Nimis diū dormīvī.</p>
-<en-p>I slept too long.</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Quid ita? Quid times?</p>
-<en-p>So what? What are you afraid of?</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Tempus praescrīptum trānsiit.</p>
-<en-p>The assigned time has gone by.</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Quod tempus dīcis?</p>
-<en-p>What time are you talking about?</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Hōram prīmam.</p>
-<en-p>The first hour.</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Tū certē falleris.</p>
-<en-p>You’re definitely wrong.</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Tamen audīvī.</p>
-<en-p>But I heard it.</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Nōn rēctē audīstī.</p>
-<en-p>You didn’t hear it right.</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Quotam tū audīstī?</p>
-<en-p>What hour did you hear?</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Audīvī ultimam.</p>
-<en-p>I heard the last one.</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Quota ea est?</p>
-<en-p>Which one is that?</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Duodecima.</p>
-<en-p>The twelfth.</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Utinam vērum sit.</p>
-<en-p>I hope it’s true.</en-p>
-<tablerow>
-</tablerow>
-<p>Iō. Nōn est quod dubitēs.</p>
-<en-p>There’s no reason to doubt it.</en-p>
-<tablerow>
-</tablerow>
-<p>Ha. Oppidō laetor.</p>
-<en-p>I’m sure glad.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus VII</h2>
+    <head>Dum Ītur Ad Scholam</head>
+    <en-head>While Heading for School</en-head>
+    <speakers>Hannō, Iōannēs.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ha. Heu, quid facimus?</p>
+        <en-p>Hey, what are we doing?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Cūr sīc vōciferās?</p>
+        <en-p>Why are you shouting?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Nimis diū dormīvī.</p>
+        <en-p>I slept too long.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Quid ita? Quid times?</p>
+        <en-p>So what? What are you afraid of?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Tempus praescrīptum trānsiit.</p>
+        <en-p>The assigned time has gone by.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Quod tempus dīcis?</p>
+        <en-p>What time are you talking about?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Hōram prīmam.</p>
+        <en-p>The first hour.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Tū certē falleris.</p>
+        <en-p>You’re definitely wrong.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Tamen audīvī.</p>
+        <en-p>But I heard it.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Nōn rēctē audīstī.</p>
+        <en-p>You didn’t hear it right.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Quotam tū audīstī?</p>
+        <en-p>What hour did you hear?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Audīvī ultimam.</p>
+        <en-p>I heard the last one.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Quota ea est?</p>
+        <en-p>Which one is that?</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Duodecima.</p>
+        <en-p>The twelfth.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Utinam vērum sit.</p>
+        <en-p>I hope it’s true.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Iō. Nōn est quod dubitēs.</p>
+        <en-p>There’s no reason to doubt it.</en-p>
+        <tablerow>
+        </tablerow>
+        <p>Ha. Oppidō laetor.</p>
+        <en-p>I’m sure glad.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus VIII</h2>
-<head>Inter Eundum In Scholam</head>
-<en-head>While Going to School</en-head>
-<speakers>!Iodocus, !Kiliānus.</speakers>
-<spoken>
-<tablerow>
-<p>Io. Heus heus, manē.</p>
-<en-p>Hey, wait.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quid vīs? Cūr maneam?</p>
-<en-p>What do you want? Why should I wait?</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Est quod tēcum loquar.</p>
-<en-p>There’s something I need to tell you.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Modo nōn vacat.</p>
-<en-p>There’s no time just now.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Tantillum pernegēs?</p>
-<en-p>You refuse such a little thing?</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Mitte mē modo.</p>
-<en-p>Just let me go.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Nōn tē dīmittam.</p>
-<en-p>I won’t let you go.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Ēnecās mē, furcifer.</p>
-<en-p>You’re killing me, you jerk.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Tantum verbum audī.</p>
-<en-p>Listen to just one word.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Ecquid meā rēfert?</p>
-<en-p>Is it really something that concerns me?</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Per multum scīlicet.</p>
-<en-p>A whole lot, definitely.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quid negōtiī est? dīc.</p>
-<en-p>What's the problem? Tell me.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Dīcam, modo dēs fidem.</p>
-<en-p>I’ll tell you, just promise.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quam fidem darem?</p>
-<en-p>What should I promise?</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Tē nōn fore invidum.</p>
-<en-p>That you won’t be a jerk about it.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Dō fidem, fīdus erō.</p>
-<en-p>I promise; I’ll be fair.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Adhibē hūc aurem.</p>
-<en-p>Get your ear close here.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quid aurem? clārē dīc.</p>
-<en-p>Why my ear? Say it out loud.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Arcāna rēs est.</p>
-<en-p>It’s a private thing.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Tamen sōlī sumus.</p>
-<en-p>But we’re alone.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Clārē nōn dīcam.</p>
-<en-p>I won’t say it out loud.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Lūdificāris nunc mē.</p>
-<en-p>Now you’re making fun of me.</en-p>
-</tablerow>
-<tablerow>
-<p>Io. Id est quod voluī.</p>
-<en-p>That’s what I wanted.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Haud impūnē hōc ferēs.</p>
-<en-p>You won’t get away with this.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus VIII</h2>
+    <head>Inter Eundum In Scholam</head>
+    <en-head>While Going to School</en-head>
+    <speakers>!Iodocus, !Kiliānus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Io. Heus heus, manē.</p>
+        <en-p>Hey, wait.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quid vīs? Cūr maneam?</p>
+        <en-p>What do you want? Why should I wait?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Est quod tēcum loquar.</p>
+        <en-p>There’s something I need to tell you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Modo nōn vacat.</p>
+        <en-p>There’s no time just now.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Tantillum pernegēs?</p>
+        <en-p>You refuse such a little thing?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Mitte mē modo.</p>
+        <en-p>Just let me go.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Nōn tē dīmittam.</p>
+        <en-p>I won’t let you go.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Ēnecās mē, furcifer.</p>
+        <en-p>You’re killing me, you jerk.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Tantum verbum audī.</p>
+        <en-p>Listen to just one word.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Ecquid meā rēfert?</p>
+        <en-p>Is it really something that concerns me?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Per multum scīlicet.</p>
+        <en-p>A whole lot, definitely.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quid negōtiī est? dīc.</p>
+        <en-p>What's the problem? Tell me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Dīcam, modo dēs fidem.</p>
+        <en-p>I’ll tell you, just promise.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quam fidem darem?</p>
+        <en-p>What should I promise?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Tē nōn fore invidum.</p>
+        <en-p>That you won’t be a jerk about it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Dō fidem, fīdus erō.</p>
+        <en-p>I promise; I’ll be fair.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Adhibē hūc aurem.</p>
+        <en-p>Get your ear close here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quid aurem? clārē dīc.</p>
+        <en-p>Why my ear? Say it out loud.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Arcāna rēs est.</p>
+        <en-p>It’s a private thing.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Tamen sōlī sumus.</p>
+        <en-p>But we’re alone.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Clārē nōn dīcam.</p>
+        <en-p>I won’t say it out loud.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Lūdificāris nunc mē.</p>
+        <en-p>Now you’re making fun of me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Io. Id est quod voluī.</p>
+        <en-p>That’s what I wanted.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Haud impūnē hōc ferēs.</p>
+        <en-p>You won’t get away with this.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus IX</h2>
-<head>Inter Discendum In Scholā</head>
-<speakers>!Kiliānus, !Lampertus.</speakers>
-<spoken>
-<tablerow>
-<p>Ki. Heus, tū hūc sedē.</p>
-<en-p>Hey, sit over here.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Quid istīc facerem?</p>
-<en-p>What would I do over there?</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Discāmus simul.</p>
-<en-p>Let’s study together.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Rem grātam offers.</p>
-<en-p>That’s a nice suggestion.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Alter alterum doceat.</p>
-<en-p>Let one teach the other.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Perlubēns pāreō.</p>
-<en-p>I am totally ready.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quidnam tū discis?</p>
-<en-p>What are you learning, anyway?</en-p>
-</tablerow>
-<tablerow>
-<p>La. Discō legere.</p>
-<en-p>I’m learning to read.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Ubi nunc legis?</p>
-<en-p>Where are you reading now?</en-p>
-</tablerow>
-<tablerow>
-<p>La. In hōc foliō.</p>
-<en-p>On this sheet.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Scīs lēctiōnem?</p>
-<en-p>Do you know the reading?</en-p>
-</tablerow>
-<tablerow>
-<p>La. Nōn admodum prōmptē.</p>
-<en-p>Not quickly enough.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Quotiēs recitāstī?</p>
-<en-p>How many times have you read it out?</en-p>
-</tablerow>
-<tablerow>
-<p>La. Recitāvī semel (I), bis (II), ter (III), quater (IIII).</p>
-<en-p>I’ve recited it once, twice, thrice, four times.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Cuinam recitāstī?</p>
-<en-p>Who did you read it to?</en-p>
-</tablerow>
-<tablerow>
-<p>La. Rēctōrī scholae.</p>
-<en-p>To the principal.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Sī quid nescīs, rogā.</p>
-<en-p>If you don’t know something, ask.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Quī hōc legam?</p>
-<en-p>How should I read this?</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Collige litterās.</p>
-<en-p>Sound out the letters.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Tū mē observā.</p>
-<en-p>Watch me.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Ut haesitās linguā?</p>
-<en-p>Why are you choppy in your speech?</en-p>
-</tablerow>
-<tablerow>
-<p>La. Sīc assuētus sum.</p>
-<en-p>That’s what I’m used to.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Dēsuēsce rūrsus.</p>
-<en-p>Get unused to it.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Pergam legere.</p>
-<en-p>I’ll keep reading.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Iam verba praecipitās.</p>
-<en-p>Now you’re rushing through the words.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Tū melius docē.</p>
-<en-p>Teach me to do better.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Sīc distīnctē legās.</p>
-<en-p>You should read distinctly, like this.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Tam clārē haud queō.</p>
-<en-p>I can’t do it that clearly.</en-p>
-</tablerow>
-<tablerow>
-<p>Ki. Ūsū addisce.</p>
-<en-p>Learn it by practicing.</en-p>
-</tablerow>
-<tablerow>
-<p>La. Tentābō quid possim.</p>
-<en-p>I’ll see what I can do.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus IX</h2>
+    <head>Inter Discendum In Scholā</head>
+    <speakers>!Kiliānus, !Lampertus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ki. Heus, tū hūc sedē.</p>
+        <en-p>Hey, sit over here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Quid istīc facerem?</p>
+        <en-p>What would I do over there?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Discāmus simul.</p>
+        <en-p>Let’s study together.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Rem grātam offers.</p>
+        <en-p>That’s a nice suggestion.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Alter alterum doceat.</p>
+        <en-p>Let one teach the other.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Perlubēns pāreō.</p>
+        <en-p>I am totally ready.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quidnam tū discis?</p>
+        <en-p>What are you learning, anyway?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Discō legere.</p>
+        <en-p>I’m learning to read.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Ubi nunc legis?</p>
+        <en-p>Where are you reading now?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. In hōc foliō.</p>
+        <en-p>On this sheet.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Scīs lēctiōnem?</p>
+        <en-p>Do you know the reading?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Nōn admodum prōmptē.</p>
+        <en-p>Not quickly enough.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Quotiēs recitāstī?</p>
+        <en-p>How many times have you read it out?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Recitāvī semel (I), bis (II), ter (III), quater (IIII).</p>
+        <en-p>I’ve recited it once, twice, thrice, four times.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Cuinam recitāstī?</p>
+        <en-p>Who did you read it to?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Rēctōrī scholae.</p>
+        <en-p>To the principal.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Sī quid nescīs, rogā.</p>
+        <en-p>If you don’t know something, ask.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Quī hōc legam?</p>
+        <en-p>How should I read this?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Collige litterās.</p>
+        <en-p>Sound out the letters.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Tū mē observā.</p>
+        <en-p>Watch me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Ut haesitās linguā?</p>
+        <en-p>Why are you choppy in your speech?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Sīc assuētus sum.</p>
+        <en-p>That’s what I’m used to.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Dēsuēsce rūrsus.</p>
+        <en-p>Get unused to it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Pergam legere.</p>
+        <en-p>I’ll keep reading.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Iam verba praecipitās.</p>
+        <en-p>Now you’re rushing through the words.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Tū melius docē.</p>
+        <en-p>Teach me to do better.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Sīc distīnctē legās.</p>
+        <en-p>You should read distinctly, like this.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Tam clārē haud queō.</p>
+        <en-p>I can’t do it that clearly.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ki. Ūsū addisce.</p>
+        <en-p>Learn it by practicing.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>La. Tentābō quid possim.</p>
+        <en-p>I’ll see what I can do.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus X</h2>
-<head>Dē Cavendīs In Scholā Coricaeīs</head>
-<en-head>Beware the Informers in School</en-head>
-<speakers>Lūcās, Mārcus.</speakers>
-<spoken>
-<tablerow>
-<p>Lū. Cūr tū sīc mūtīs?</p>
-<en-p>Why are you so quiet?</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Nōn audeō loquī.</p>
-<en-p>I don’t dare speak.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Quis tē prohibet?</p>
-<en-p>Who’s telling you not to?</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Praeceptor noster.</p>
-<en-p>Our teacher.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Tamen is nōn adest.</p>
-<en-p>But he’s not here.</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. At Coricaeī adsunt.</p>
-<en-p>But the Informers are here.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Quōs Coricaeōs dīcis?</p>
-<en-p>What Informer are you talking about?</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Quī clanculum nōs signant.</p>
-<en-p>The ones who are secretly writing notes about us.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Nūllum ex hīs nōstī?</p>
-<en-p>You don’t know any of them?</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Quī ego nōscerem?</p>
-<en-p>How would I know them?</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Tam cautē rem agunt?</p>
-<en-p>They do it so cautiously?</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Ea est illīs āstūtia.</p>
-<en-p>That’s how sneaky they are.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. Tū loquere Latīnē.</p>
-<en-p>Speak in Latin.</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Quam vellem sī scīrem.</p>
-<en-p>I would, if I knew how.</en-p>
-</tablerow>
-<tablerow>
-<p>Lū. At sīc addiscēs citius.</p>
-<en-p>But that way you’ll learn faster.</en-p>
-</tablerow>
-<tablerow>
-<p>Mā. Hāc spē dulcēscit ferula.</p>
-<en-p>By this hope, the rod is sweetened.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus X</h2>
+    <head>Dē Cavendīs In Scholā Coricaeīs</head>
+    <en-head>Beware the Informers in School</en-head>
+    <speakers>Lūcās, Mārcus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Lū. Cūr tū sīc mūtīs?</p>
+        <en-p>Why are you so quiet?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Nōn audeō loquī.</p>
+        <en-p>I don’t dare speak.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Quis tē prohibet?</p>
+        <en-p>Who’s telling you not to?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Praeceptor noster.</p>
+        <en-p>Our teacher.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Tamen is nōn adest.</p>
+        <en-p>But he’s not here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. At Coricaeī adsunt.</p>
+        <en-p>But the Informers are here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Quōs Coricaeōs dīcis?</p>
+        <en-p>What Informer are you talking about?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Quī clanculum nōs signant.</p>
+        <en-p>The ones who are secretly writing notes about us.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Nūllum ex hīs nōstī?</p>
+        <en-p>You don’t know any of them?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Quī ego nōscerem?</p>
+        <en-p>How would I know them?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Tam cautē rem agunt?</p>
+        <en-p>They do it so cautiously?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Ea est illīs āstūtia.</p>
+        <en-p>That’s how sneaky they are.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. Tū loquere Latīnē.</p>
+        <en-p>Speak in Latin.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Quam vellem sī scīrem.</p>
+        <en-p>I would, if I knew how.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Lū. At sīc addiscēs citius.</p>
+        <en-p>But that way you’ll learn faster.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mā. Hāc spē dulcēscit ferula.</p>
+        <en-p>By this hope, the rod is sweetened.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XI</h2>
-<head>Dē Ferulā</head>
-<en-head>The Rod</en-head>
-<speakers>!Martīnus, Nīcolāus.</speakers>
-<spoken>
-<tablerow>
-<p>Ma. Quis hīc eiulat?</p>
-<en-p>Who’s over here crying?</en-p>
-</tablerow>
-<tablerow>
-<p>Ni. Ego sum miser.</p>
-<en-p>I’m so miserable.</en-p>
-</tablerow>
-<tablerow>
-<p>Ma. Quō pactō miser es?</p>
-<en-p>What are you miserable about?</en-p>
-</tablerow>
-<tablerow>
-<p>Ni. Virgīs caesus sum.</p>
-<en-p>I got beaten with switches.</en-p>
-</tablerow>
-<tablerow>
-<p>Ma. Quid commeruistī?</p>
-<en-p>What did you do wrong?</en-p>
-</tablerow>
-<tablerow>
-<p>Ni. Nihil didiceram.</p>
-<en-p>I hadn’t learned anything.</en-p>
-</tablerow>
-<tablerow>
-<p>Ma. Meritō caesus es.</p>
-<en-p>You deserved your beating.</en-p>
-</tablerow>
-<tablerow>
-<p>Ni. Etiam tū mē lūdis?</p>
-<en-p>Are you making fun of me, too?</en-p>
-</tablerow>
-<tablerow>
-<p>Ma. Cūr autem nōn didicerās?</p>
-<en-p>But why hadn’t you learned anything?</en-p>
-</tablerow>
-<tablerow>
-<p>Ni. Posthāc erō cautior.</p>
-<en-p>I’ll be more careful after this.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XI</h2>
+    <head>Dē Ferulā</head>
+    <en-head>The Rod</en-head>
+    <speakers>!Martīnus, Nīcolāus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ma. Quis hīc eiulat?</p>
+        <en-p>Who’s over here crying?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ni. Ego sum miser.</p>
+        <en-p>I’m so miserable.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ma. Quō pactō miser es?</p>
+        <en-p>What are you miserable about?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ni. Virgīs caesus sum.</p>
+        <en-p>I got beaten with switches.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ma. Quid commeruistī?</p>
+        <en-p>What did you do wrong?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ni. Nihil didiceram.</p>
+        <en-p>I hadn’t learned anything.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ma. Meritō caesus es.</p>
+        <en-p>You deserved your beating.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ni. Etiam tū mē lūdis?</p>
+        <en-p>Are you making fun of me, too?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ma. Cūr autem nōn didicerās?</p>
+        <en-p>But why hadn’t you learned anything?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ni. Posthāc erō cautior.</p>
+        <en-p>I’ll be more careful after this.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XII</h2>
-<head>Dē Ientāculō</head>
-<en-head>Breakfast</en-head>
-<speakers>Naevius, !Osualdus.</speakers>
-<spoken>
-<tablerow>
-<p>Næ. Quō tū nunc abīs?</p>
-<en-p>Where are you heading off to?</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Domum mē cōnferō.</p>
-<en-p>I’m going home.</en-p>
-</tablerow>
-<tablerow>
-<p>Næ. Quid domī agēs?</p>
-<en-p>What’ll you do at home?</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Sūmam ientāculum.</p>
-<en-p>I'll get breakfast.</en-p>
-</tablerow>
-<tablerow>
-<p>Næ. Quānam itūrus es?</p>
-<en-p>Which way are you gonna go?</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Hāc per forum.</p>
-<en-p>This way, through the square.</en-p>
-</tablerow>
-<tablerow>
-<p>Næ. Comitābor tē.</p>
-<en-p>I’ll go with you.</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Nihil opus est.</p>
-<en-p>It’s not necessary.</en-p>
-</tablerow>
-<tablerow>
-<p>Næ. Āversāris mē?</p>
-<en-p>Are you avoiding me?</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Nōn, sed parcō.</p>
-<en-p>No, but I am giving you a break.</en-p>
-</tablerow>
-<tablerow>
-<p>Næ. Nihil est quod agam.</p>
-<en-p>There’s nothing else I’d do.</en-p>
-</tablerow>
-<tablerow>
-<p>Os. Lubēns tē accipiō.</p>
-<en-p>I’ll gladly take you along.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XII</h2>
+    <head>Dē Ientāculō</head>
+    <en-head>Breakfast</en-head>
+    <speakers>Naevius, !Osualdus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Næ. Quō tū nunc abīs?</p>
+        <en-p>Where are you heading off to?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Domum mē cōnferō.</p>
+        <en-p>I’m going home.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Næ. Quid domī agēs?</p>
+        <en-p>What’ll you do at home?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Sūmam ientāculum.</p>
+        <en-p>I'll get breakfast.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Næ. Quānam itūrus es?</p>
+        <en-p>Which way are you gonna go?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Hāc per forum.</p>
+        <en-p>This way, through the square.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Næ. Comitābor tē.</p>
+        <en-p>I’ll go with you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Nihil opus est.</p>
+        <en-p>It’s not necessary.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Næ. Āversāris mē?</p>
+        <en-p>Are you avoiding me?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Nōn, sed parcō.</p>
+        <en-p>No, but I am giving you a break.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Næ. Nihil est quod agam.</p>
+        <en-p>There’s nothing else I’d do.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Os. Lubēns tē accipiō.</p>
+        <en-p>I’ll gladly take you along.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XIII</h2>
-<head>Dē Reditū Ā Ientāculō</head>
-<en-head>Returning from Breakfast</en-head>
-<speakers>!Onophrius, Paulus.</speakers>
-<spoken>
-<tablerow>
-<p>On. Unde nōbīs redīs?</p>
-<en-p>Where are you coming back from?</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Ā ientāculō.</p>
-<en-p>From breakfast.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Ubi ientāstī?</p>
-<en-p>Where did you eat breakfast?</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Rogās? domī meae.</p>
-<en-p>You’re asking? At my house.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Quid ientāstī?</p>
-<en-p>What did you have for breakfast?</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Pānem iūrulentum.</p>
-<en-p>Bread and gravy.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Quis tēcum ientāvit?</p>
-<en-p>Who ate breakfast with you?</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Tōta familia.</p>
-<en-p>The whole family.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Nihil mihi adfers?</p>
-<en-p>You’re not bringing me anything?</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Quid adferrem tibi?</p>
-<en-p>What should I bring you?</en-p>
-</tablerow>
-<tablerow>
-<p>On. Frustum pānis.</p>
-<en-p>A bread crust.</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Pānem quidem habeō.</p>
-<en-p>I do have bread.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Cedo mihi partem.</p>
-<en-p>Give me a piece.</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Accipe dīmidium.</p>
-<en-p>Take half.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Agō tibi grātiās.</p>
-<en-p>Thank you.</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Nōn age, sed refer.</p>
-<en-p>Don’t thank; return the favor.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Nōn est unde referam.</p>
-<en-p>There’s nothing I can return it with.</en-p>
-</tablerow>
-<tablerow>
-<p>Pa. Nōn semper egēbis.</p>
-<en-p>You won’t always be needy.</en-p>
-</tablerow>
-<tablerow>
-<p>On. Grātum mē reperiēs.</p>
-<en-p>You’ll find me grateful.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XIII</h2>
+    <head>Dē Reditū Ā Ientāculō</head>
+    <en-head>Returning from Breakfast</en-head>
+    <speakers>!Onophrius, Paulus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>On. Unde nōbīs redīs?</p>
+        <en-p>Where are you coming back from?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Ā ientāculō.</p>
+        <en-p>From breakfast.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Ubi ientāstī?</p>
+        <en-p>Where did you eat breakfast?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Rogās? domī meae.</p>
+        <en-p>You’re asking? At my house.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Quid ientāstī?</p>
+        <en-p>What did you have for breakfast?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Pānem iūrulentum.</p>
+        <en-p>Bread and gravy.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Quis tēcum ientāvit?</p>
+        <en-p>Who ate breakfast with you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Tōta familia.</p>
+        <en-p>The whole family.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Nihil mihi adfers?</p>
+        <en-p>You’re not bringing me anything?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Quid adferrem tibi?</p>
+        <en-p>What should I bring you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Frustum pānis.</p>
+        <en-p>A bread crust.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Pānem quidem habeō.</p>
+        <en-p>I do have bread.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Cedo mihi partem.</p>
+        <en-p>Give me a piece.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Accipe dīmidium.</p>
+        <en-p>Take half.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Agō tibi grātiās.</p>
+        <en-p>Thank you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Nōn age, sed refer.</p>
+        <en-p>Don’t thank; return the favor.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Nōn est unde referam.</p>
+        <en-p>There’s nothing I can return it with.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pa. Nōn semper egēbis.</p>
+        <en-p>You won’t always be needy.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>On. Grātum mē reperiēs.</p>
+        <en-p>You’ll find me grateful.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XIV</h2>
-<head>Dē Parandō Calamō</head>
-<en-head>Getting a Pen Ready</en-head>
-<speakers>Petrus, Quirīnus.</speakers>
-<spoken>
-<tablerow>
-<p>Pe. Parā mihi hanc pennam.</p>
-<en-p>Get this pen ready for me.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Est tibi cultellus?</p>
-<en-p>Do you have a penknife?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Est, sed valdē hebēs.</p>
-<en-p>I do, but it’s very dull.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Acūtiōrem adfer.</p>
-<en-p>Bring a sharper one.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ubi accipiam?</p>
-<en-p>Where will I get one?</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Ūtendum expete.</p>
-<en-p>Borrow one.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Adferō, ūtere.</p>
-<en-p>I’ve got one; use it.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Vīs crassam, an tenuem?</p>
-<en-p>Do you want it thick, or thin?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Mediam volō.</p>
-<en-p>I want it medium.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Dā ātrāmentum.</p>
-<en-p>Give me some ink.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ēn ātrāmentārium.</p>
-<en-p>Here’s the inkwell.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Dā quoque papȳrum.</p>
-<en-p>Give me some paper, too.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Et haec in prōmptū est.</p>
-<en-p>And here’s some ready.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Papȳrus perfluit.</p>
-<en-p>The paper is soaking through.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Nōn habeō aliam.</p>
-<en-p>I don’t have another sheet.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Quid vīs ut scrībam?</p>
-<en-p>What do you want me to write?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Praescrībe litterās.</p>
-<en-p>Draw the letters.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Tū imitāberis?</p>
-<en-p>You'll imitate them?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ita, in hōc petō.</p>
-<en-p>Yes, that’s why I’m asking.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Saepe exscrībe.</p>
-<en-p>Write them out often.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Faciam ut iubēs.</p>
-<en-p>I will do as you say.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XIV</h2>
+    <head>Dē Parandō Calamō</head>
+    <en-head>Getting a Pen Ready</en-head>
+    <speakers>Petrus, Quirīnus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Pe. Parā mihi hanc pennam.</p>
+        <en-p>Get this pen ready for me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Est tibi cultellus?</p>
+        <en-p>Do you have a penknife?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Est, sed valdē hebēs.</p>
+        <en-p>I do, but it’s very dull.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Acūtiōrem adfer.</p>
+        <en-p>Bring a sharper one.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ubi accipiam?</p>
+        <en-p>Where will I get one?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Ūtendum expete.</p>
+        <en-p>Borrow one.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Adferō, ūtere.</p>
+        <en-p>I’ve got one; use it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Vīs crassam, an tenuem?</p>
+        <en-p>Do you want it thick, or thin?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Mediam volō.</p>
+        <en-p>I want it medium.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Dā ātrāmentum.</p>
+        <en-p>Give me some ink.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ēn ātrāmentārium.</p>
+        <en-p>Here’s the inkwell.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Dā quoque papȳrum.</p>
+        <en-p>Give me some paper, too.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Et haec in prōmptū est.</p>
+        <en-p>And here’s some ready.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Papȳrus perfluit.</p>
+        <en-p>The paper is soaking through.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Nōn habeō aliam.</p>
+        <en-p>I don’t have another sheet.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Quid vīs ut scrībam?</p>
+        <en-p>What do you want me to write?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Praescrībe litterās.</p>
+        <en-p>Draw the letters.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Tū imitāberis?</p>
+        <en-p>You'll imitate them?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ita, in hōc petō.</p>
+        <en-p>Yes, that’s why I’m asking.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Saepe exscrībe.</p>
+        <en-p>Write them out often.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Faciam ut iubēs.</p>
+        <en-p>I will do as you say.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XV</h2>
-<head>Inter Redeundum Ā Scholā</head>
-<en-head>While Returning From School</en-head>
-<speakers>Quīntius, !Rudolphus.</speakers>
-<spoken>
-<tablerow>
-<p>Qu. Ut tēcum agitur?</p>
-<en-p>How’s it going with you?</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Bene mēcum agitur.</p>
-<en-p>It’s going well with me.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Id lubēns audiō.</p>
-<en-p>I’m glad to hear it.</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Grātiam habeō.</p>
-<en-p>Thank you.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Ubi iam fuistī?</p>
-<en-p>Where have you been, now?</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. In lōdō litterāriō.</p>
-<en-p>In the literature school.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Quōrsum sīc properās?</p>
-<en-p>Where are you hurrying to like that?</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Domum versus.</p>
-<en-p>Towards home.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Quid domī agēs?</p>
-<en-p>What will you do at home?</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Adōrnabō mēnsam.</p>
-<en-p>I’ll set the table.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Tam māne prandēs?</p>
-<en-p>You have lunch that early?</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Obsequor parentī.</p>
-<en-p>I do what my dad wants.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Facis ut tē decet.</p>
-<en-p>You’re doing what’s right.</en-p>
-</tablerow>
-<tablerow>
-<p>Ru. Abeō, tū valē.</p>
-<en-p>I’m going; take care.</en-p>
-</tablerow>
-<tablerow>
-<p>Qu. Tū quoque valē.</p>
-<en-p>You take care, too.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XV</h2>
+    <head>Inter Redeundum Ā Scholā</head>
+    <en-head>While Returning From School</en-head>
+    <speakers>Quīntius, !Rudolphus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Qu. Ut tēcum agitur?</p>
+        <en-p>How’s it going with you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Bene mēcum agitur.</p>
+        <en-p>It’s going well with me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Id lubēns audiō.</p>
+        <en-p>I’m glad to hear it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Grātiam habeō.</p>
+        <en-p>Thank you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Ubi iam fuistī?</p>
+        <en-p>Where have you been, now?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. In lōdō litterāriō.</p>
+        <en-p>In the literature school.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Quōrsum sīc properās?</p>
+        <en-p>Where are you hurrying to like that?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Domum versus.</p>
+        <en-p>Towards home.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Quid domī agēs?</p>
+        <en-p>What will you do at home?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Adōrnabō mēnsam.</p>
+        <en-p>I’ll set the table.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Tam māne prandēs?</p>
+        <en-p>You have lunch that early?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Obsequor parentī.</p>
+        <en-p>I do what my dad wants.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Facis ut tē decet.</p>
+        <en-p>You’re doing what’s right.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ru. Abeō, tū valē.</p>
+        <en-p>I’m going; take care.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Qu. Tū quoque valē.</p>
+        <en-p>You take care, too.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XVI</h2>
-<head>Dum Īnstruitur Mēnsa</head>
-<en-head>While the Table Is Set</en-head>
-<speakers>!Remigius, !Sebaldus.</speakers>
-<spoken>
-<tablerow>
-<p>Re. Puer, ubi es?</p>
-<en-p>Where are you, boy?</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Adsum, quid mē vīs?</p>
-<en-p>I’m here; what do you need me for?</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Īnstrue mēnsam.</p>
-<en-p>Set the table.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Est tempus prandiō?</p>
-<en-p>Is it time for lunch?</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Est, quandō sīc libet.</p>
-<en-p>It is, when it so pleases.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Rēctē cūrābitur.</p>
-<en-p>It will be taken care of properly.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Porrige cultrōs.</p>
-<en-p>Get out the knives.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. In prōmptū sunt.</p>
-<en-p>They are ready.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Dā mappās manuāriās.</p>
-<en-p>Give me the napkins.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Et istae adsunt.</p>
-<en-p>And those are here.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Adpōne salīnum.</p>
-<en-p>Set up the salt shaker.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Prius sale implēbō.</p>
-<en-p>First I’ll fill it with salt.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Ēlue calicēs.</p>
-<en-p>Clean the glasses.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Dūdum lāvī.</p>
-<en-p>I now washed them.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Adfer orbēs.</p>
-<en-p>Bring over the plates.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. In scamnō iacent.</p>
-<en-p>They’re lying on the stool.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Et corbem cocleāriam.</p>
-<en-p>And the spoon basket.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Ē paxillō pendet.</p>
-<en-p>It’s hanging on the peg.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Aptā circulum.</p>
-<en-p>Set up the basin.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Nunquid aliud vīs?</p>
-<en-p>Do you want anything else?</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Nunc mōrēs discās.</p>
-<en-p>Now you should learn manners.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Quōs mōrēs discam?</p>
-<en-p>What manners should I learn?</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Quōs in mensā servēs.</p>
-<en-p>The ones you should mind at the table.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Rogō mē doceās.</p>
-<en-p>I ask you to teach me.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Perlubēns hōc faciam.</p>
-<en-p>I will do that very gladly.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Ego auscultābō.</p>
-<en-p>I will listen.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Nē mē interpellā.</p>
-<en-p>Don’t interrupt me.</en-p>
-</tablerow>
-<tablerow>
-<p>Se. Haud verbum faciam.</p>
-<en-p>I won’t say a word.</en-p>
-</tablerow>
-<tablerow>
-<p>Re. Prīmō unguēs pūrgā.</p>
-<en-p>First clean your nails.</en-p>
-</tablerow>
-<tablerow>
-<p>Hinc manūs lavā.</p>
-<en-p>Then wash your hands.</en-p>
-</tablerow>
-<tablerow>
-<p>Mox Deō benedīcās.</p>
-<en-p>Next praise God.</en-p>
-</tablerow>
-<tablerow>
-<p>Deus pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs 
-quae iam sumus sūmptūrī, per Chrīstum dominum nostrum, Āmēn.</p>
-<en-p>"May God, our heavenly Father, bless us His children and these things we are about to receive, through Christ Our Lord, amen."</en-p>
-</tablerow>
-<tablerow>
-<p>Post decenter accumbe.</p>
-<en-p>After that sit down properly.</en-p>
-</tablerow>
-<tablerow>
-<p>Cibōs carpe digitīs.</p>
-<en-p>Take food with your fingers.</en-p>
-</tablerow>
-<tablerow>
-<p>Nē conde volā.</p>
-<en-p>Don't hold it in your fist.</en-p>
-</tablerow>
-<tablerow>
-<p>Prīmus nē estō ēsū.</p>
-<en-p>Don't be the first to eat.</en-p>
-</tablerow>
-<tablerow>
-<p>Nec prīmum bibās.</p>
-<en-p>And don't drink first.</en-p>
-</tablerow>
-<tablerow>
-<p>Cubitīs nē tē fulciās.</p>
-<en-p>Don't lean on your elbows.</en-p>
-</tablerow>
-<tablerow>
-<p>Ērēctus sedē.</p>
-<en-p>Sit straight.</en-p>
-</tablerow>
-<tablerow>
-<p>Nec pandās brāchia.</p>
-<en-p>Don’t spread out your arms.</en-p>
-</tablerow>
-<tablerow>
-<p>Nōn bibās avidē.</p>
-<en-p>Don’t drink greedily.</en-p>
-</tablerow>
-<tablerow>
-<p>Nec mandās avidē.</p>
-<en-p>And don’t chew greedily.</en-p>
-</tablerow>
-<tablerow>
-<p>Proxima tē carpe.</p>
-<en-p>Take the things closest to you.</en-p>
-</tablerow>
-<tablerow>
-<p>In orbe nē morāre.</p>
-<en-p>Don’t get absorbed in your plate.</en-p>
-</tablerow>
-<tablerow>
-<p>Aliōs nē īnspicitō.</p>
-<en-p>Don’t stare at other people.</en-p>
-</tablerow>
-<tablerow>
-<p>Bibitūrus ōs terge.</p>
-<en-p>Wipe your mouth before you drink.</en-p>
-</tablerow>
-<tablerow>
-<p>Nōn manū, sed mappulā.</p>
-<en-p>Not with your hand; with your napkin.</en-p>
-</tablerow>
-<tablerow>
-<p>Morsa nē redintinge.</p>
-<en-p>Don’t double-dip.</en-p>
-</tablerow>
-<tablerow>
-<p>Nē linge digitōs.</p>
-<en-p>Don’t lick your fingers.</en-p>
-</tablerow>
-<tablerow>
-<p>Nec ossa rōdās.</p>
-<en-p>And don’t gnaw the bones.</en-p>
-</tablerow>
-<tablerow>
-<p>Quaeque scinde cultrō.</p>
-<en-p>Cut things with your knife.</en-p>
-</tablerow>
-<tablerow>
-<p>Ōs nōn perungās.</p>
-<en-p>Don’t smear stuff on your mouth.</en-p>
-</tablerow>
-<tablerow>
-<p>Digitōs saepe terge.</p>
-<en-p>Wipe your fingers often.</en-p>
-</tablerow>
-<tablerow>
-<p>Nārēs nē fode.</p>
-<en-p>Don’t pick your nose.</en-p>
-</tablerow>
-<tablerow>
-<p>Nōn rogātus taceās.</p>
-<en-p>Be quiet if you’re not asked anything.</en-p>
-</tablerow>
-<tablerow>
-<p>Quod satis est ēde.</p>
-<en-p>Eat what is sufficient.</en-p>
-</tablerow>
-<tablerow>
-<p>Cum satur es surge.</p>
-<en-p>When you've had enough, get up.</en-p>
-</tablerow>
-<tablerow>
-<p>Rūrsus lavā manūs.</p>
-<en-p>Wash your hands again.</en-p>
-</tablerow>
-<tablerow>
-<p>Mēnsālia tolle.</p>
-<en-p>Pick up the stuff on the table.</en-p>
-</tablerow>
-<tablerow>
-<p>Deō grātiās age.</p>
-<en-p>Give thanks to God.</en-p>
-</tablerow>
-<tablerow>
-<p>Quī nōs creāvit, redēmit et pāvit, illī grātiās agimus sempiternās, per Iēsum Chrīstum dominum nostrum, Āmēn.</p>
-<en-p>“Who has created us, redeemed, and fed, to Him we give thanks forever, through Jesus Christ Our Lord, amen.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XVI</h2>
+    <head>Dum Īnstruitur Mēnsa</head>
+    <en-head>While the Table Is Set</en-head>
+    <speakers>!Remigius, !Sebaldus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Re. Puer, ubi es?</p>
+        <en-p>Where are you, boy?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Adsum, quid mē vīs?</p>
+        <en-p>I’m here; what do you need me for?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Īnstrue mēnsam.</p>
+        <en-p>Set the table.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Est tempus prandiō?</p>
+        <en-p>Is it time for lunch?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Est, quandō sīc libet.</p>
+        <en-p>It is, when it so pleases.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Rēctē cūrābitur.</p>
+        <en-p>It will be taken care of properly.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Porrige cultrōs.</p>
+        <en-p>Get out the knives.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. In prōmptū sunt.</p>
+        <en-p>They are ready.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Dā mappās manuāriās.</p>
+        <en-p>Give me the napkins.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Et istae adsunt.</p>
+        <en-p>And those are here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Adpōne salīnum.</p>
+        <en-p>Set up the salt shaker.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Prius sale implēbō.</p>
+        <en-p>First I’ll fill it with salt.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Ēlue calicēs.</p>
+        <en-p>Clean the glasses.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Dūdum lāvī.</p>
+        <en-p>I now washed them.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Adfer orbēs.</p>
+        <en-p>Bring over the plates.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. In scamnō iacent.</p>
+        <en-p>They’re lying on the stool.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Et corbem cocleāriam.</p>
+        <en-p>And the spoon basket.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Ē paxillō pendet.</p>
+        <en-p>It’s hanging on the peg.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Aptā circulum.</p>
+        <en-p>Set up the basin.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Nunquid aliud vīs?</p>
+        <en-p>Do you want anything else?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Nunc mōrēs discās.</p>
+        <en-p>Now you should learn manners.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Quōs mōrēs discam?</p>
+        <en-p>What manners should I learn?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Quōs in mensā servēs.</p>
+        <en-p>The ones you should mind at the table.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Rogō mē doceās.</p>
+        <en-p>I ask you to teach me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Perlubēns hōc faciam.</p>
+        <en-p>I will do that very gladly.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Ego auscultābō.</p>
+        <en-p>I will listen.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Nē mē interpellā.</p>
+        <en-p>Don’t interrupt me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Se. Haud verbum faciam.</p>
+        <en-p>I won’t say a word.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Re. Prīmō unguēs pūrgā.</p>
+        <en-p>First clean your nails.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Hinc manūs lavā.</p>
+        <en-p>Then wash your hands.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mox Deō benedīcās.</p>
+        <en-p>Next praise God.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Deus pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs 
+        quae iam sumus sūmptūrī, per Chrīstum dominum nostrum, Āmēn.</p>
+        <en-p>"May God, our heavenly Father, bless us His children and these things we are about to receive, through Christ Our Lord, amen."</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Post decenter accumbe.</p>
+        <en-p>After that sit down properly.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cibōs carpe digitīs.</p>
+        <en-p>Take food with your fingers.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nē conde volā.</p>
+        <en-p>Don't hold it in your fist.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Prīmus nē estō ēsū.</p>
+        <en-p>Don't be the first to eat.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nec prīmum bibās.</p>
+        <en-p>And don't drink first.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cubitīs nē tē fulciās.</p>
+        <en-p>Don't lean on your elbows.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ērēctus sedē.</p>
+        <en-p>Sit straight.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nec pandās brāchia.</p>
+        <en-p>Don’t spread out your arms.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nōn bibās avidē.</p>
+        <en-p>Don’t drink greedily.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nec mandās avidē.</p>
+        <en-p>And don’t chew greedily.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Proxima tē carpe.</p>
+        <en-p>Take the things closest to you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>In orbe nē morāre.</p>
+        <en-p>Don’t get absorbed in your plate.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Aliōs nē īnspicitō.</p>
+        <en-p>Don’t stare at other people.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bibitūrus ōs terge.</p>
+        <en-p>Wipe your mouth before you drink.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nōn manū, sed mappulā.</p>
+        <en-p>Not with your hand; with your napkin.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Morsa nē redintinge.</p>
+        <en-p>Don’t double-dip.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nē linge digitōs.</p>
+        <en-p>Don’t lick your fingers.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nec ossa rōdās.</p>
+        <en-p>And don’t gnaw the bones.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Quaeque scinde cultrō.</p>
+        <en-p>Cut things with your knife.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ōs nōn perungās.</p>
+        <en-p>Don’t smear stuff on your mouth.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Digitōs saepe terge.</p>
+        <en-p>Wipe your fingers often.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nārēs nē fode.</p>
+        <en-p>Don’t pick your nose.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Nōn rogātus taceās.</p>
+        <en-p>Be quiet if you’re not asked anything.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Quod satis est ēde.</p>
+        <en-p>Eat what is sufficient.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cum satur es surge.</p>
+        <en-p>When you've had enough, get up.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Rūrsus lavā manūs.</p>
+        <en-p>Wash your hands again.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Mēnsālia tolle.</p>
+        <en-p>Pick up the stuff on the table.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Deō grātiās age.</p>
+        <en-p>Give thanks to God.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Quī nōs creāvit, redēmit et pāvit, illī grātiās agimus sempiternās, per Iēsum Chrīstum dominum nostrum, Āmēn.</p>
+        <en-p>“Who has created us, redeemed, and fed, to Him we give thanks forever, through Jesus Christ Our Lord, amen.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XVII</h2>
-<head>Ā Prandiō Redeuntium In Scholam</head>
-<en-head>Returning to School from Lunch</en-head>
-<speakers>Simōn, Titus.</speakers>
-<spoken>
-<tablerow>
-<p>Si. Quid geris in sinū?</p>
-<en-p>What are you carrying in your pocket?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Merendam meam.</p>
-<en-p>My snack.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Ego nihil attulī.</p>
-<en-p>I didn’t bring anything.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Quid autem edēs?</p>
-<en-p>But what will you eat?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Emam mihi pānem.</p>
-<en-p>I will buy myself some bread.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Habēs pecūniam?</p>
-<en-p>You have money?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Obolum habeō.</p>
-<en-p>I’ve got a quarter.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Quis tibi hunc dēdit?</p>
-<en-p>Who gave it to you?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Pater meus dēdit.</p>
-<en-p>My dad gave it.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Pium habēs patrem.</p>
-<en-p>You have a nice dad.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Quālem tū habēs?</p>
-<en-p>What sort do you have?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Admodum dūrum.</p>
-<en-p>Too strict.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. In rem tuam est.</p>
-<en-p>That’s up to you.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Māllem alium.</p>
-<en-p>I’d rather have someone else.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Stultē loqueris.</p>
-<en-p>You’re talking like an idiot.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Sīc mihi excidit.</p>
-<en-p>That’s how it happened to me.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Perīrēs licentiā.</p>
-<en-p>You’d be ruined if you had more freedom.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XVII</h2>
+    <head>Ā Prandiō Redeuntium In Scholam</head>
+    <en-head>Returning to School from Lunch</en-head>
+    <speakers>Simōn, Titus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Si. Quid geris in sinū?</p>
+        <en-p>What are you carrying in your pocket?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Merendam meam.</p>
+        <en-p>My snack.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Ego nihil attulī.</p>
+        <en-p>I didn’t bring anything.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Quid autem edēs?</p>
+        <en-p>But what will you eat?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Emam mihi pānem.</p>
+        <en-p>I will buy myself some bread.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Habēs pecūniam?</p>
+        <en-p>You have money?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Obolum habeō.</p>
+        <en-p>I’ve got a quarter.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Quis tibi hunc dēdit?</p>
+        <en-p>Who gave it to you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Pater meus dēdit.</p>
+        <en-p>My dad gave it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Pium habēs patrem.</p>
+        <en-p>You have a nice dad.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Quālem tū habēs?</p>
+        <en-p>What sort do you have?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Admodum dūrum.</p>
+        <en-p>Too strict.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. In rem tuam est.</p>
+        <en-p>That’s up to you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Māllem alium.</p>
+        <en-p>I’d rather have someone else.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Stultē loqueris.</p>
+        <en-p>You’re talking like an idiot.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Sīc mihi excidit.</p>
+        <en-p>That’s how it happened to me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Perīrēs licentiā.</p>
+        <en-p>You’d be ruined if you had more freedom.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XVIII</h2>
-<head>In Scholā Lūdentium</head>
-<en-head>Playing in School</en-head>
-<speakers>!Timothaeus, !Vitus.</speakers>
-<spoken>
-<tablerow>
-<p>Ti. Vae nōbīs, Vite.</p>
-<en-p>Woe upon us, Vitus.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Quid est? Quid tremis?</p>
-<en-p>What is it? Why are you shaking?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Ego et tū perīmus.</p>
-<en-p>You and I perish.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Quid ita? Quā dē causā?</p>
-<en-p>Why so? What's the reason?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Praeceptor venit.</p>
-<en-p>The teacher is coming.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Quid ex tē audiō?</p>
-<en-p>What is this I hear from you?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Vae nostrīs natibus.</p>
-<en-p>Woe to our bottoms.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Ubi is est, obsecrō?</p>
-<en-p>Where is he, I beseech you?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Per gradūs ascendit.</p>
-<en-p>He’s coming up the stairs.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Quis id ait? Quis vīdit?</p>
-<en-p>Who says so? Who saw him?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Egomet inquam vīdī.</p>
-<en-p>I myself saw him, I say.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Vīditne nōs lūdere?</p>
-<en-p>Did he see that we’re playing?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Id est quod timeō.</p>
-<en-p>That’s what I’m afraid of.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Quid ergō agēmus?</p>
-<en-p>So what will we do?</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Āmovē orbiculōs.</p>
-<en-p>Get rid of the tiddly-winks.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Rēctē admonēs.</p>
-<en-p>That’s a good idea.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Explicēmus librōs.</p>
-<en-p>Let’s open our books.</en-p>
-</tablerow>
-<tablerow>
-<p>Vi. Certē astūtus es.</p>
-<en-p>You’re sure smart.</en-p>
-</tablerow>
-<tablerow>
-<p>Ti. Sīc rēbit nōs discere.</p>
-<en-p>That way he’ll think we’re learning.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XVIII</h2>
+    <head>In Scholā Lūdentium</head>
+    <en-head>Playing in School</en-head>
+    <speakers>!Timothaeus, !Vitus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ti. Vae nōbīs, Vite.</p>
+        <en-p>Woe upon us, Vitus.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Quid est? Quid tremis?</p>
+        <en-p>What is it? Why are you shaking?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Ego et tū perīmus.</p>
+        <en-p>You and I perish.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Quid ita? Quā dē causā?</p>
+        <en-p>Why so? What's the reason?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Praeceptor venit.</p>
+        <en-p>The teacher is coming.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Quid ex tē audiō?</p>
+        <en-p>What is this I hear from you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Vae nostrīs natibus.</p>
+        <en-p>Woe to our bottoms.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Ubi is est, obsecrō?</p>
+        <en-p>Where is he, I beseech you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Per gradūs ascendit.</p>
+        <en-p>He’s coming up the stairs.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Quis id ait? Quis vīdit?</p>
+        <en-p>Who says so? Who saw him?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Egomet inquam vīdī.</p>
+        <en-p>I myself saw him, I say.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Vīditne nōs lūdere?</p>
+        <en-p>Did he see that we’re playing?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Id est quod timeō.</p>
+        <en-p>That’s what I’m afraid of.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Quid ergō agēmus?</p>
+        <en-p>So what will we do?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Āmovē orbiculōs.</p>
+        <en-p>Get rid of the tiddly-winks.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Rēctē admonēs.</p>
+        <en-p>That’s a good idea.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Explicēmus librōs.</p>
+        <en-p>Let’s open our books.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Vi. Certē astūtus es.</p>
+        <en-p>You’re sure smart.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ti. Sīc rēbit nōs discere.</p>
+        <en-p>That way he’ll think we’re learning.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XIX</h2>
-<head>Dē Dīmissiōne Ā Litterīs</head>
-<en-head>Dismissal from School</en-head>
-<speakers>Ulyssēs, Xanthus.</speakers>
-<spoken>
-<tablerow>
-<p>Ul. Iō gaudēte sodālēs.</p>
-<en-p>Yeah, let’s have fun, guys.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Quid est quod sīc gestīs?</p>
-<en-p>What is it that you’re celebrating like that?</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Sunt nōbīs fēriae.</p>
-<en-p>We have days off.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Quās dīcis fēriās?</p>
-<en-p>What free days are you talking about?</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Ōtium ā litterīs.</p>
-<en-p>A break from school.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Quandō ōtiābimur?</p>
-<en-p>When will we have our break?</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Hodiē ā prandiō.</p>
-<en-p>Today, starting from lunch.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Ergō lūdēmus.</p>
-<en-p>So we’ll play a game.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Quidnam lūdēmus?</p>
-<en-p>What will we play?</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Lūdēmus globulīs.</p>
-<en-p>We’ll play with marbles.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Lūdus puerīlis est.</p>
-<en-p>That’s a kids’ game.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Quem tū lūdum māllēs?</p>
-<en-p>What game do you rather play?</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Dēcertēmus saltū.</p>
-<en-p>Let’s have a jumping contest.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Hunc lūdum ōdī.</p>
-<en-p>I hate that game.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Quānam dē causā?</p>
-<en-p>What’s the reason?</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Quia pedēs lassat.</p>
-<en-p>Because it wears my feet out.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Annōn pudet tē?</p>
-<en-p>Aren’t you ashamed of that?</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Cuius mē pudēret?</p>
-<en-p>What should I be ashamed of?</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Quod tam piger es.</p>
-<en-p>That you’re so lazy.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Certē piger nōn sum.</p>
-<en-p>I am totally not lazy.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Quīn ergō saltābis?</p>
-<en-p>So then why won’t you jump?</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Cavē nē prōvocēs.</p>
-<en-p>Be careful you don’t get me started.</en-p>
-</tablerow>
-<tablerow>
-<p>Ul. Immō tē adiūrō.</p>
-<en-p>No, I dare you.</en-p>
-</tablerow>
-<tablerow>
-<p>Xa. Vidēbis quid possim.</p>
-<en-p>You’ll see what I can do.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XIX</h2>
+    <head>Dē Dīmissiōne Ā Litterīs</head>
+    <en-head>Dismissal from School</en-head>
+    <speakers>Ulyssēs, Xanthus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ul. Iō gaudēte sodālēs.</p>
+        <en-p>Yeah, let’s have fun, guys.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Quid est quod sīc gestīs?</p>
+        <en-p>What is it that you’re celebrating like that?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Sunt nōbīs fēriae.</p>
+        <en-p>We have days off.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Quās dīcis fēriās?</p>
+        <en-p>What free days are you talking about?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Ōtium ā litterīs.</p>
+        <en-p>A break from school.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Quandō ōtiābimur?</p>
+        <en-p>When will we have our break?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Hodiē ā prandiō.</p>
+        <en-p>Today, starting from lunch.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Ergō lūdēmus.</p>
+        <en-p>So we’ll play a game.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Quidnam lūdēmus?</p>
+        <en-p>What will we play?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Lūdēmus globulīs.</p>
+        <en-p>We’ll play with marbles.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Lūdus puerīlis est.</p>
+        <en-p>That’s a kids’ game.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Quem tū lūdum māllēs?</p>
+        <en-p>What game do you rather play?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Dēcertēmus saltū.</p>
+        <en-p>Let’s have a jumping contest.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Hunc lūdum ōdī.</p>
+        <en-p>I hate that game.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Quānam dē causā?</p>
+        <en-p>What’s the reason?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Quia pedēs lassat.</p>
+        <en-p>Because it wears my feet out.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Annōn pudet tē?</p>
+        <en-p>Aren’t you ashamed of that?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Cuius mē pudēret?</p>
+        <en-p>What should I be ashamed of?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Quod tam piger es.</p>
+        <en-p>That you’re so lazy.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Certē piger nōn sum.</p>
+        <en-p>I am totally not lazy.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Quīn ergō saltābis?</p>
+        <en-p>So then why won’t you jump?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Cavē nē prōvocēs.</p>
+        <en-p>Be careful you don’t get me started.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ul. Immō tē adiūrō.</p>
+        <en-p>No, I dare you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Xa. Vidēbis quid possim.</p>
+        <en-p>You’ll see what I can do.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XX</h2>
-<head>Lītigantium Dē Sessiōne</head>
-<en-head>Fighting Over a Seat</en-head>
-<speakers>X. Y.</speakers>
-<spoken>
-<tablerow>
-<p>X. Apage tē hinc.</p>
-<en-p>Get out of here.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Satis imperiōsē.</p>
-<en-p>You’re bossy enough.</en-p>
-</tablerow>
-<tablerow>
-<p>X. Hīc mihi locus est.</p>
-<en-p>This is my spot.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Atquī ego negō.</p>
-<en-p>But I say it's not.</en-p>
-</tablerow>
-<tablerow>
-<p>X. Prior hīc sēdī.</p>
-<en-p>I sat here first.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Cūr autem surrēxistī?</p>
-<en-p>But why did you get up?</en-p>
-</tablerow>
-<tablerow>
-<p>X. Negōtium mihi fuit.</p>
-<en-p>I had to do something.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Quid signī posuistī?</p>
-<en-p>What sort of marker did you set?</en-p>
-</tablerow>
-<tablerow>
-<p>X. Nōn vidēs librum?</p>
-<en-p>You don’t see the book?</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Liber istīc iacet.</p>
-<en-p>The book’s lying over there.</en-p>
-</tablerow>
-<tablerow>
-<p>X. At tū sēmōvistī.</p>
-<en-p>But you moved it away.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Id factum pernegō.</p>
-<en-p>I deny doing so.</en-p>
-</tablerow>
-<tablerow>
-<p>X. Quīn tandem cedēs?</p>
-<en-p>Why don’t you just go away?</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Tū mē vī extrūdēs?</p>
-<en-p>Are you going to throw me out by force?</en-p>
-</tablerow>
-<tablerow>
-<p>X. Nīsī volēns cesseris.</p>
-<en-p>Unless you’ll go away willingly.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Hōc dīcam magistrō.</p>
-<en-p>I’ll tell the teacher.</en-p>
-</tablerow>
-<tablerow>
-<p>X. Sūsque dēque ferō.</p>
-<en-p>I don’t care.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XX</h2>
+    <head>Lītigantium Dē Sessiōne</head>
+    <en-head>Fighting Over a Seat</en-head>
+    <speakers>X. Y.</speakers>
+    <spoken>
+      <tablerow>
+        <p>X. Apage tē hinc.</p>
+        <en-p>Get out of here.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Satis imperiōsē.</p>
+        <en-p>You’re bossy enough.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Hīc mihi locus est.</p>
+        <en-p>This is my spot.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Atquī ego negō.</p>
+        <en-p>But I say it's not.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Prior hīc sēdī.</p>
+        <en-p>I sat here first.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Cūr autem surrēxistī?</p>
+        <en-p>But why did you get up?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Negōtium mihi fuit.</p>
+        <en-p>I had to do something.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Quid signī posuistī?</p>
+        <en-p>What sort of marker did you set?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Nōn vidēs librum?</p>
+        <en-p>You don’t see the book?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Liber istīc iacet.</p>
+        <en-p>The book’s lying over there.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. At tū sēmōvistī.</p>
+        <en-p>But you moved it away.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Id factum pernegō.</p>
+        <en-p>I deny doing so.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Quīn tandem cedēs?</p>
+        <en-p>Why don’t you just go away?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Tū mē vī extrūdēs?</p>
+        <en-p>Are you going to throw me out by force?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Nīsī volēns cesseris.</p>
+        <en-p>Unless you’ll go away willingly.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Hōc dīcam magistrō.</p>
+        <en-p>I’ll tell the teacher.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>X. Sūsque dēque ferō.</p>
+        <en-p>I don’t care.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXI</h2>
-<head>Invītantium Sē Invicem</head>
-<speakers>Y. Z.</speakers>
-<spoken>
-<tablerow>
-<p>Y. Crās ad mē venī.</p>
-<en-p>Come visit me tomorrow.</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Metuō ut possim.</p>
-<en-p>I’m afraid I can’t.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Cūr nōn possīs?</p>
-<en-p>Why could’t you?</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Domī manendum est.</p>
-<en-p>I have to stay home.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Quid negōtiī est?</p>
-<en-p>What sort of work is there?</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Oportet scrībere.</p>
-<en-p>I have to write.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Scrībitō perendiē.</p>
-<en-p>Write the day after tomorrow.</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Nihil polliceor.</p>
-<en-p>I’m not promising anything.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Sīc colis socium.</p>
-<en-p>That’s how you're a good friend.</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Culpa nōn est mea.</p>
-<en-p>It’s not my fault.</en-p>
-</tablerow>
-<tablerow>
-<p>Y. Possēs sī vellēs.</p>
-<en-p>You could if you wanted to.</en-p>
-</tablerow>
-<tablerow>
-<p>Z. Vellem sī possem.</p>
-<en-p>I'd want to if I could.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXI</h2>
+    <head>Invītantium Sē Invicem</head>
+    <speakers>Y. Z.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Y. Crās ad mē venī.</p>
+        <en-p>Come visit me tomorrow.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Metuō ut possim.</p>
+        <en-p>I’m afraid I can’t.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Cūr nōn possīs?</p>
+        <en-p>Why could’t you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Domī manendum est.</p>
+        <en-p>I have to stay home.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Quid negōtiī est?</p>
+        <en-p>What sort of work is there?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Oportet scrībere.</p>
+        <en-p>I have to write.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Scrībitō perendiē.</p>
+        <en-p>Write the day after tomorrow.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Nihil polliceor.</p>
+        <en-p>I’m not promising anything.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Sīc colis socium.</p>
+        <en-p>That’s how you're a good friend.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Culpa nōn est mea.</p>
+        <en-p>It’s not my fault.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Y. Possēs sī vellēs.</p>
+        <en-p>You could if you wanted to.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Z. Vellem sī possem.</p>
+        <en-p>I'd want to if I could.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXII</h2>
-<head>Dē Studiō Interrogantium</head>
-<en-head>Asking About Hobbies</en-head>
-<speakers>Abraham, !Briccius.</speakers>
-<spoken>
-<tablerow>
-<p>Ab. Quid ā cēnā facis?</p>
-<en-p>What do you do after dinner?</en-p>
-</tablerow>
-<tablerow>
-<p>Br. Cupīs hōc scīre?</p>
-<en-p>You want to know?</en-p>
-</tablerow>
-<tablerow>
-<p>Ab. Ideō scīscitor.</p>
-<en-p>That’s why I’m asking.</en-p>
-</tablerow>
-<tablerow>
-<p>Br. Post cibum dēambulō.</p>
-<en-p>I go for a walk after dinner.</en-p>
-</tablerow>
-<tablerow>
-<p>Ab. Quid posteā agis?</p>
-<en-p>What do you do afterwards?</en-p>
-</tablerow>
-<tablerow>
-<p>Br. Audīta repetō.</p>
-<en-p>I go over the lectures.</en-p>
-</tablerow>
-<tablerow>
-<p>Ab. Quōmodo hōc facis?</p>
-<en-p>How do you do that?</en-p>
-</tablerow>
-<tablerow>
-<p>Br. Saepe relegendō.</p>
-<en-p>By reading them again.</en-p>
-</tablerow>
-<tablerow>
-<p>Ab. Quid sī quid excidit?</p>
-<en-p>What if something is missing?</en-p>
-</tablerow>
-<tablerow>
-<p>Br. Discō postrīdiē.</p>
-<en-p>I learn it the next day.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXII</h2>
+    <head>Dē Studiō Interrogantium</head>
+    <en-head>Asking About Hobbies</en-head>
+    <speakers>Abraham, !Briccius.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Ab. Quid ā cēnā facis?</p>
+        <en-p>What do you do after dinner?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Br. Cupīs hōc scīre?</p>
+        <en-p>You want to know?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ab. Ideō scīscitor.</p>
+        <en-p>That’s why I’m asking.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Br. Post cibum dēambulō.</p>
+        <en-p>I go for a walk after dinner.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ab. Quid posteā agis?</p>
+        <en-p>What do you do afterwards?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Br. Audīta repetō.</p>
+        <en-p>I go over the lectures.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ab. Quōmodo hōc facis?</p>
+        <en-p>How do you do that?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Br. Saepe relegendō.</p>
+        <en-p>By reading them again.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ab. Quid sī quid excidit?</p>
+        <en-p>What if something is missing?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Br. Discō postrīdiē.</p>
+        <en-p>I learn it the next day.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXIII</h2>
-<head>Dē Absentiā Ā Scholā</head>
-<en-head>About Being Gone From School</en-head>
-<speakers>Benedictus, !Christophorus.</speakers>
-<spoken>
-<tablerow>
-<p>Be. Ubi herī fuerās?</p>
-<en-p>Where had you been yesterday?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Quōnam tempore?</p>
-<en-p>What time?</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Statim ā prandiō.</p>
-<en-p>Right after lunch.</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Domī meae lāvī.</p>
-<en-p>I took a bath at home.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Quam diū lāvistī?</p>
-<en-p>How long did you take a bath?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Tōtam fermē hōram.</p>
-<en-p>Almost a whole hour.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Quis tēcum lāvit?</p>
-<en-p>Who took a bath with you?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Parentēs meī.</p>
-<en-p>My parents.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Lōtus quid fēcerās?</p>
-<en-p>What did you do after your bath?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Siccābam capillōs.</p>
-<en-p>I dried my hair.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Cūr nōn ībās in scholam?</p>
-<en-p>Why didn’t you go to school?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Pater prohibēbat.</p>
-<en-p>My dad said no.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Cūr prohibēbat?</p>
-<en-p>Why did he say no?</en-p>
-</tablerow>
-<tablerow>
-<p>Ch. Nam caput madēbat.</p>
-<en-p>My head was dripping wet.</en-p>
-</tablerow>
-<tablerow>
-<p>Be. Dēlicātus puer es.</p>
-<en-p>You’re a pathetic kid.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXIII</h2>
+    <head>Dē Absentiā Ā Scholā</head>
+    <en-head>About Being Gone From School</en-head>
+    <speakers>Benedictus, !Christophorus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Be. Ubi herī fuerās?</p>
+        <en-p>Where had you been yesterday?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Quōnam tempore?</p>
+        <en-p>What time?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Statim ā prandiō.</p>
+        <en-p>Right after lunch.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Domī meae lāvī.</p>
+        <en-p>I took a bath at home.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Quam diū lāvistī?</p>
+        <en-p>How long did you take a bath?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Tōtam fermē hōram.</p>
+        <en-p>Almost a whole hour.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Quis tēcum lāvit?</p>
+        <en-p>Who took a bath with you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Parentēs meī.</p>
+        <en-p>My parents.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Lōtus quid fēcerās?</p>
+        <en-p>What did you do after your bath?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Siccābam capillōs.</p>
+        <en-p>I dried my hair.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Cūr nōn ībās in scholam?</p>
+        <en-p>Why didn’t you go to school?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Pater prohibēbat.</p>
+        <en-p>My dad said no.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Cūr prohibēbat?</p>
+        <en-p>Why did he say no?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ch. Nam caput madēbat.</p>
+        <en-p>My head was dripping wet.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Be. Dēlicātus puer es.</p>
+        <en-p>You’re a pathetic kid.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXIV</h2>
-<head>Mūtuō Grātulantium Sibi</head>
-<en-head>Greeting Each Other</en-head>
-<speakers>!Cyrillus, Dōnātus.</speakers>
-<spoken>
-<tablerow>
-<p>Cy. Unde iam prōrēpis?</p>
-<en-p>Where did you just crawl out of?</en-p>
-</tablerow>
-<tablerow>
-<p>Do. Ē domō meā.</p>
-<en-p>From my house.</en-p>
-</tablerow>
-<tablerow>
-<p>Cy. Diū tē nōn vīdī.</p>
-<en-p>I haven’t seen you in a long time.</en-p>
-</tablerow>
-<tablerow>
-<p>Do. Et ego tē diūtius.</p>
-<en-p>And I haven’t seen you longer.</en-p>
-</tablerow>
-<tablerow>
-<p>Cy. Valuistīne bene?</p>
-<en-p>Have you been doing well?</en-p>
-</tablerow>
-<tablerow>
-<p>Do. Optimō valuī.</p>
-<en-p>I have been extremely well.</en-p>
-</tablerow>
-<tablerow>
-<p>Cy. Edepol, gaudeō.</p>
-<en-p>Well, that’s great.</en-p>
-</tablerow>
-<tablerow>
-<p>Do. Ut tū autem valēs?</p>
-<en-p>But how are you doing?</en-p>
-</tablerow>
-<tablerow>
-<p>Cy. Admodum bellē.</p>
-<en-p>Very well.</en-p>
-</tablerow>
-<tablerow>
-<p>Do. Et ipsum gaudeō.</p>
-<en-p>And I’m glad to hear it.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXIV</h2>
+    <head>Mūtuō Grātulantium Sibi</head>
+    <en-head>Greeting Each Other</en-head>
+    <speakers>!Cyrillus, Dōnātus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Cy. Unde iam prōrēpis?</p>
+        <en-p>Where did you just crawl out of?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Do. Ē domō meā.</p>
+        <en-p>From my house.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cy. Diū tē nōn vīdī.</p>
+        <en-p>I haven’t seen you in a long time.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Do. Et ego tē diūtius.</p>
+        <en-p>And I haven’t seen you longer.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cy. Valuistīne bene?</p>
+        <en-p>Have you been doing well?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Do. Optimō valuī.</p>
+        <en-p>I have been extremely well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cy. Edepol, gaudeō.</p>
+        <en-p>Well, that’s great.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Do. Ut tū autem valēs?</p>
+        <en-p>But how are you doing?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Cy. Admodum bellē.</p>
+        <en-p>Very well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Do. Et ipsum gaudeō.</p>
+        <en-p>And I’m glad to hear it.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXV</h2>
-<head>Agnōscentium Sēsē In Lūdō</head>
-<en-head>Recognizing Each Other in School</en-head>
-<speakers>Simōn, Petrus.</speakers>
-<spoken>
-<tablerow>
-<p>Si. Quod tibi nōmen est?</p>
-<en-p>What’s your name?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Mihi nōmen est Petrō.</p>
-<en-p>My name is Peter.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Quī sīs nōn nōvī.</p>
-<en-p>I don’t know who you are.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Nōn mē nōvistī?</p>
-<en-p>You don’t know me?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Nōn negem sī nōverim.</p>
-<en-p>I wouldn’t deny if I did.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Oblītusne es meī?</p>
-<en-p>Have you forgotten me?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Ante nunquam tē vīdī.</p>
-<en-p>I have never seen you before.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. At tamen agnōscēs.</p>
-<en-p>But you will recognize me.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Sānus hercle nōn es.</p>
-<en-p>You definitely aren’t well.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Egone, an tū magis?</p>
-<en-p>I’m not, or are you instead?</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Ubi tē nōvissem?</p>
-<en-p>Where did I know you?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. In lūdō litterāriō.</p>
-<en-p>In literature school.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Fuistī condiscipulus?</p>
-<en-p>Were you a fellow student?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ita, ferē biennium.</p>
-<en-p>Yes, for almost two years.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Sine mēcum recolam.</p>
-<en-p>Let me think about it.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Agnōsce cicātrīcem.</p>
-<en-p>Recognize this scar.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Hanc tibi incusseram.</p>
-<en-p>I had made that one for you.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Cum thēcā pennāriā.</p>
-<en-p>With a pen case.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Dē cicātrīce tē nōvī.</p>
-<en-p>I know you because of the scar.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Vidēs quod nōn īnsāniam.</p>
-<en-p>You see that I am not crazy.</en-p>
-</tablerow>
-<tablerow>
-<p>Si. Dē fōrmā nōn nōvissem.</p>
-<en-p>I wouldn’t have known you by what you look like.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXV</h2>
+    <head>Agnōscentium Sēsē In Lūdō</head>
+    <en-head>Recognizing Each Other in School</en-head>
+    <speakers>Simōn, Petrus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Si. Quod tibi nōmen est?</p>
+        <en-p>What’s your name?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Mihi nōmen est Petrō.</p>
+        <en-p>My name is Peter.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Quī sīs nōn nōvī.</p>
+        <en-p>I don’t know who you are.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Nōn mē nōvistī?</p>
+        <en-p>You don’t know me?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Nōn negem sī nōverim.</p>
+        <en-p>I wouldn’t deny if I did.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Oblītusne es meī?</p>
+        <en-p>Have you forgotten me?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Ante nunquam tē vīdī.</p>
+        <en-p>I have never seen you before.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. At tamen agnōscēs.</p>
+        <en-p>But you will recognize me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Sānus hercle nōn es.</p>
+        <en-p>You definitely aren’t well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Egone, an tū magis?</p>
+        <en-p>I’m not, or are you instead?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Ubi tē nōvissem?</p>
+        <en-p>Where did I know you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. In lūdō litterāriō.</p>
+        <en-p>In literature school.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Fuistī condiscipulus?</p>
+        <en-p>Were you a fellow student?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ita, ferē biennium.</p>
+        <en-p>Yes, for almost two years.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Sine mēcum recolam.</p>
+        <en-p>Let me think about it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Agnōsce cicātrīcem.</p>
+        <en-p>Recognize this scar.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Hanc tibi incusseram.</p>
+        <en-p>I had made that one for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Cum thēcā pennāriā.</p>
+        <en-p>With a pen case.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Dē cicātrīce tē nōvī.</p>
+        <en-p>I know you because of the scar.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Vidēs quod nōn īnsāniam.</p>
+        <en-p>You see that I am not crazy.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Si. Dē fōrmā nōn nōvissem.</p>
+        <en-p>I wouldn’t have known you by what you look like.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXVI</h2>
-<head>Lītigantium Dē Rē Ablātā</head>
-<en-head>Fighting About Something Taken</en-head>
-<speakers>Petrōnius, Theodōrus.</speakers>
-<spoken>
-<tablerow>
-<p>Pe. Redde quod meum est.</p>
-<en-p>Give back what’s mine.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid vīs reddam?</p>
-<en-p>What do you want me to give back?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Quod surripuistī.</p>
-<en-p>What you stole.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Nihil tibi surripuī.</p>
-<en-p>I stole nothing from you.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Aufer cavillum.</p>
-<en-p>Cut out the joking.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Nōn equidem cavillor.</p>
-<en-p>I’m definitely not joking.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Quīn reddis tandem?</p>
-<en-p>Why don’t you give it back, then?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Nihil hercle sūmpsī.</p>
-<en-p>Look, I took nothing.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ostende hūc manūs.</p>
-<en-p>Here, show me your hands.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Hem, ostendō eccās.</p>
-<en-p>Hey, look, I’m showing them.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Quid abstulistī?</p>
-<en-p>What did you take away?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Equidem nihil abstulī.</p>
-<en-p>I really didn’t take anything.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Excute manicam.</p>
-<en-p>Shake out your sleeve.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Tuō arbitrātū.</p>
-<en-p>As you say.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Inter vestēs habēs.</p>
-<en-p>You have it in your clothes.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Tentā quālubet.</p>
-<en-p>Try anywhere you like.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Nōvī sȳcophantiās.</p>
-<en-p>I know your tricks.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Pergis molestus esse?</p>
-<en-p>You’re still going to be annoying?</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Ablātum restitue.</p>
-<en-p>Restore what’s been taken.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Fūrtī mē adligās?</p>
-<en-p>Are you accusing me of theft.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Nōn fūrtī, sed fraudis.</p>
-<en-p>Not of theft, but of lying.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Ulcīscar hanc iniūriam.</p>
-<en-p>I’ll pay you back for this insult.</en-p>
-</tablerow>
-<tablerow>
-<p>Pe. Et ego tē ulcīscar.</p>
-<en-p>And I’ll pay you back.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXVI</h2>
+    <head>Lītigantium Dē Rē Ablātā</head>
+    <en-head>Fighting About Something Taken</en-head>
+    <speakers>Petrōnius, Theodōrus.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Pe. Redde quod meum est.</p>
+        <en-p>Give back what’s mine.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid vīs reddam?</p>
+        <en-p>What do you want me to give back?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Quod surripuistī.</p>
+        <en-p>What you stole.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Nihil tibi surripuī.</p>
+        <en-p>I stole nothing from you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Aufer cavillum.</p>
+        <en-p>Cut out the joking.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Nōn equidem cavillor.</p>
+        <en-p>I’m definitely not joking.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Quīn reddis tandem?</p>
+        <en-p>Why don’t you give it back, then?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Nihil hercle sūmpsī.</p>
+        <en-p>Look, I took nothing.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ostende hūc manūs.</p>
+        <en-p>Here, show me your hands.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Hem, ostendō eccās.</p>
+        <en-p>Hey, look, I’m showing them.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Quid abstulistī?</p>
+        <en-p>What did you take away?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Equidem nihil abstulī.</p>
+        <en-p>I really didn’t take anything.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Excute manicam.</p>
+        <en-p>Shake out your sleeve.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Tuō arbitrātū.</p>
+        <en-p>As you say.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Inter vestēs habēs.</p>
+        <en-p>You have it in your clothes.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Tentā quālubet.</p>
+        <en-p>Try anywhere you like.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Nōvī sȳcophantiās.</p>
+        <en-p>I know your tricks.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Pergis molestus esse?</p>
+        <en-p>You’re still going to be annoying?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Ablātum restitue.</p>
+        <en-p>Restore what’s been taken.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Fūrtī mē adligās?</p>
+        <en-p>Are you accusing me of theft.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Nōn fūrtī, sed fraudis.</p>
+        <en-p>Not of theft, but of lying.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Ulcīscar hanc iniūriam.</p>
+        <en-p>I’ll pay you back for this insult.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Pe. Et ego tē ulcīscar.</p>
+        <en-p>And I’ll pay you back.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
-<section>
-<h2>Dialogus XXVII</h2>
-<head>Prōdeuntium In Fūnus</head>
-<en-head>Going to a Funeral</en-head>
-<speakers>!Thomas, Geōrgius.</speakers>
-<spoken>
-<tablerow>
-<p>Th. Adesdum Geōrgī?</p>
-<en-p>Are you here, George?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Quid est? Cūr mē vocās?</p>
-<en-p>What is it? Why are you calling me?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Est quod tē volō.</p>
-<en-p>There’s something I want you for.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Dictum putā.</p>
-<en-p>I already know.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid cēnsēs mē velle?</p>
-<en-p>What do you think I want?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Ut tēcum lūdam.</p>
-<en-p>That I play a game with you.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Tōtā errās viā.</p>
-<en-p>You’re wrong in every way.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Quid igitur est?</p>
-<en-p>So then what is it?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Tū dīvīnā.</p>
-<en-p>Guess.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Nesciō dīvīnāre.</p>
-<en-p>I'm no good at guessing.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. In fūnus prōdībimus.</p>
-<en-p>We’re going out to a funeral.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Quod fūnus dīcis?</p>
-<en-p>What funeral are you talking about?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quod sit nescio.</p>
-<en-p>I don’t know which it is.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Unde autem nōstī?</p>
-<en-p>But where did you learn about it?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Praeceptor indīxit.</p>
-<en-p>The teacher announced it.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Quā hōrā efferētur?</p>
-<en-p>What time will he be carried out?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Putō septimā.</p>
-<en-p>At 7:00, I think.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Et ego prōdībō.</p>
-<en-p>I’ll go out, too.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Tū mēcum ībis.</p>
-<en-p>You’ll go with me.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Erō tibi comes.</p>
-<en-p>I will accompany you.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Nec frūstrā hōc petō.</p>
-<en-p>So I'm not asking for no reason.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Cūr autem petis?</p>
-<en-p>So then why are you asking?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Ut mē doceās.</p>
-<en-p>So you can teach me.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Quid tē docērem?</p>
-<en-p>What would I teach you?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Vīnō benedīcere.</p>
-<en-p>To bless wine.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Anne dum adfers?</p>
-<en-p>Are you now bringing some?</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Rem ipsam dīcis.</p>
-<en-p>You got that right.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Sīc ego dīcerem…</p>
-<en-p>I would say this…</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Dīc, iam auscultō.</p>
-<en-p>Say it, I’m listening now.</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Hōc vīnum nōbīs faustum sit. Bonō sit pōtus iste. Hōc vīnum laetī bibite.</p>
-<en-p>May this wine be auspicious for us. May the drink be for the good. Rejoice as you drink this wine.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid sternūtantī imprecer?</p>
-<en-p>What do you pray for someone sneezing?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Sit tibi hōc fēlīx. Tē Deus servet.</p>
-<en-p>May this turn out well for you. May God preserve you.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid auspicantī aliquid?</p>
-<en-p>What about for someone looking for omens?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Bonō sit quod īnstituis. Bene vertat quod agis.</p>
-<en-p>May what you are starting go well. May what you are doing turn out well.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid proficīscentī?</p>
-<en-p>What about for someone starting a journey?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Sit iter hōc fēlīx tibi. Perfaustē solvās ancoram. Sit laetus tibi reditus.</p>
-<en-p>May this trip be fortunate for you. May you loose your anchor very fortunately. May you have a happy return.</en-p>
-</tablerow>
-<tablerow>
-<p>Th. Quid haec precantī referam?</p>
-<en-p>What should I respond to someone saying such prayers?</en-p>
-</tablerow>
-<tablerow>
-<p>Ge. Tantundem tibi reprecor.</p>
-<en-p>I pray for the same to you.</en-p>
-</tablerow>
-</spoken>
-</section>
+  <section>
+    <h2>Dialogus XXVII</h2>
+    <head>Prōdeuntium In Fūnus</head>
+    <en-head>Going to a Funeral</en-head>
+    <speakers>!Thomas, Geōrgius.</speakers>
+    <spoken>
+      <tablerow>
+        <p>Th. Adesdum Geōrgī?</p>
+        <en-p>Are you here, George?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Quid est? Cūr mē vocās?</p>
+        <en-p>What is it? Why are you calling me?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Est quod tē volō.</p>
+        <en-p>There’s something I want you for.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Dictum putā.</p>
+        <en-p>I already know.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid cēnsēs mē velle?</p>
+        <en-p>What do you think I want?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Ut tēcum lūdam.</p>
+        <en-p>That I play a game with you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Tōtā errās viā.</p>
+        <en-p>You’re wrong in every way.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Quid igitur est?</p>
+        <en-p>So then what is it?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Tū dīvīnā.</p>
+        <en-p>Guess.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Nesciō dīvīnāre.</p>
+        <en-p>I'm no good at guessing.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. In fūnus prōdībimus.</p>
+        <en-p>We’re going out to a funeral.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Quod fūnus dīcis?</p>
+        <en-p>What funeral are you talking about?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quod sit nescio.</p>
+        <en-p>I don’t know which it is.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Unde autem nōstī?</p>
+        <en-p>But where did you learn about it?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Praeceptor indīxit.</p>
+        <en-p>The teacher announced it.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Quā hōrā efferētur?</p>
+        <en-p>What time will he be carried out?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Putō septimā.</p>
+        <en-p>At 7:00, I think.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Et ego prōdībō.</p>
+        <en-p>I’ll go out, too.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Tū mēcum ībis.</p>
+        <en-p>You’ll go with me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Erō tibi comes.</p>
+        <en-p>I will accompany you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Nec frūstrā hōc petō.</p>
+        <en-p>So I'm not asking for no reason.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Cūr autem petis?</p>
+        <en-p>So then why are you asking?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Ut mē doceās.</p>
+        <en-p>So you can teach me.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Quid tē docērem?</p>
+        <en-p>What would I teach you?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Vīnō benedīcere.</p>
+        <en-p>To bless wine.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Anne dum adfers?</p>
+        <en-p>Are you now bringing some?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Rem ipsam dīcis.</p>
+        <en-p>You got that right.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Sīc ego dīcerem…</p>
+        <en-p>I would say this…</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Dīc, iam auscultō.</p>
+        <en-p>Say it, I’m listening now.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Hōc vīnum nōbīs faustum sit. Bonō sit pōtus iste. Hōc vīnum laetī bibite.</p>
+        <en-p>May this wine be auspicious for us. May the drink be for the good. Rejoice as you drink this wine.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid sternūtantī imprecer?</p>
+        <en-p>What do you pray for someone sneezing?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Sit tibi hōc fēlīx. Tē Deus servet.</p>
+        <en-p>May this turn out well for you. May God preserve you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid auspicantī aliquid?</p>
+        <en-p>What about for someone looking for omens?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Bonō sit quod īnstituis. Bene vertat quod agis.</p>
+        <en-p>May what you are starting go well. May what you are doing turn out well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid proficīscentī?</p>
+        <en-p>What about for someone starting a journey?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Sit iter hōc fēlīx tibi. Perfaustē solvās ancoram. Sit laetus tibi reditus.</p>
+        <en-p>May this trip be fortunate for you. May you loose your anchor very fortunately. May you have a happy return.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Th. Quid haec precantī referam?</p>
+        <en-p>What should I respond to someone saying such prayers?</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Ge. Tantundem tibi reprecor.</p>
+        <en-p>I pray for the same to you.</en-p>
+      </tablerow>
+    </spoken>
+  </section>
 
 </content>
