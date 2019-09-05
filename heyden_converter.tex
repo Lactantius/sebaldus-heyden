@@ -1,8 +1,10 @@
 %LuaTeX
 
+\usemodule[ntb-to-xtb]
+
 \startxmlsetups xml:heyden:*
   \xmlsetsetup{\xmldocument}{*}{-}
-  \xmlsetsetup{\xmldocument}{content|h1|section|spoken|h2|head|en-head|speakers|p|en-p}{xml:heyden:*}
+  \xmlsetsetup{\xmldocument}{content|h1|section|spoken|tablerow|h2|head|en-head|speakers|p|en-p|page|skip}{xml:heyden:*}
 \stopxmlsetups
 
 \xmlregisterdocumentsetup{heyden}{xml:heyden:*}
@@ -16,7 +18,7 @@
 
 \startxmlsetups{xml:heyden:section}
   \startchapter[title={\xmlfirst{#1}{h2}}]
-    \xmlall{#1}{!h2|!p|!en-p}
+    \xmlall{#1}{!h2|!p|!en-p|!tablerow}
     %\xmlfilter{#1}{[position()>1]/all()}
   \stopchapter
 \stopxmlsetups
@@ -36,22 +38,42 @@
 
 \startxmlsetups{xml:heyden:spoken}
   \bTABLE
+  %\startxtable%\bTABLE
     \xmlflush{#1}
+  %\stopxtable%\eTABLE
   \eTABLE
 \stopxmlsetups
 
-\startxmlsetups{xml:heyden:p}
+\startxmlsetups{xml:heyden:tablerow}
   \bTR
-    \bTD
-      \xmlflush{#1}
-    \eTD
+  %\startxrow%\bTR
+    \xmlflush{#1}
+  %\stopxrow%\eTR
+  \eTR
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:p}
+  \bTD
+  %\startxcell%\bTD
+    \xmlflush{#1}
+  %\stopxcell%\eTD
+  \eTD
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:en-p}
-    \bTD
-      \xmlflush{#1}
-    \eTD
-  \eTR
+  \bTD
+  %\startxcell%\bTD
+    \xmlflush{#1}
+  %\stopxcell%\eTD
+  \eTD
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:page}
+  \page
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:skip}
+  \vfill
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:h1}
@@ -66,7 +88,11 @@
 \setupTABLE[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
 \setupTABLE[c][align={lohi,flushleft,hz},width=2in,offset=0em]
 \setupTABLE[c][2][style=\it]
-\setuphead[chapter][number=no,page=no,after=\smallskip,before=\hrule\smallskip]
+
+%\setupxtable[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
+%\setupxtable[c][align={lohi,flushleft,hz},width=2in,offset=0em]
+%\setupxtable[c][2][style=\it]
+\setuphead[chapter][number=no,page=no,after=\smallskip,before=\bigskip]
 \setuphead[title][align={middle,nothyphenated}]
 
 \enablemode[booklet]
