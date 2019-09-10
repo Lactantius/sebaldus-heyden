@@ -12,7 +12,7 @@
 \startxmlsetups{xml:heyden:content}
   \starttitle[title={\xmlfirst{#1}{h1}}]
     %\xmlflush{#1}
-    \xmlall{#1}{section}
+    \xmlall{#1}{section|page}
   \stoptitle
 \stopxmlsetups
 
@@ -37,43 +37,49 @@
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:spoken}
-  \bTABLE
+  \starttabulate[|l|Il|]
+  %\bTABLE
   %\startxtable%\bTABLE
     \xmlflush{#1}
   %\stopxtable%\eTABLE
-  \eTABLE
+  %\eTABLE
+  \stoptabulate
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:tablerow}
-  \bTR
+  %\bTR
   %\startxrow%\bTR
     \xmlflush{#1}
   %\stopxrow%\eTR
-  \eTR
+  %\eTR
+  \NR
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:p}
-  \bTD
+  \NC
+  %\bTD
   %\startxcell%\bTD
     \xmlflush{#1}
   %\stopxcell%\eTD
-  \eTD
+  %\eTD
+  \NC
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:en-p}
-  \bTD
+  %\bTD
   %\startxcell%\bTD
     \xmlflush{#1}
   %\stopxcell%\eTD
-  \eTD
+  %\eTD
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:page}
-  \page
+  \page[yes]
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:skip}
-  \vfill
+  %\vfill
+  %\skip
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:h1}
@@ -85,9 +91,9 @@
 \stopxmlsetups
 
 \setupbodyfont[palatino, 9pt]
-\setupTABLE[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
-\setupTABLE[c][align={lohi,flushleft,hz},width=2in,offset=0em]
-\setupTABLE[c][2][style=\it]
+%\setupTABLE[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
+%\setupTABLE[c][align={lohi,flushleft,hz},width=2in,offset=0em]
+%\setupTABLE[c][2][style=\it]
 
 %\setupxtable[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
 %\setupxtable[c][align={lohi,flushleft,hz},width=2in,offset=0em]

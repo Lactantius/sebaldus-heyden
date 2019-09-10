@@ -6,7 +6,7 @@
     <h2>Dialogus I</h2>
     <head>Salūtātiō Mātūtīna</head>
     <en-head>Morning Greeting</en-head>
-    <speakers>Andrēās, !Balthasar.</speakers>
+    <speakers>Andrēās, Balthasar</speakers>
     <spoken>
       <tablerow>
         <p>An. Bonus dies.</p>
@@ -39,7 +39,7 @@
     <h2>Dialogus II</h2>
     <head>Salūtātiō Merīdiāna</head>
     <en-head>Noon Greeting</en-head>
-    <speakers>!Blāsius, Clēmēns.</speakers>
+    <speakers>Blāsius, Clēmēns</speakers>
     <spoken>
       <tablerow>
         <p>Bl. Salve Clēmēns.</p>
@@ -96,7 +96,7 @@
     <h2>Dialogus III</h2>
     <head>Salūtātiō Vespertīna</head>
     <en-head>Evening Greeting</en-head>
-    <speakers>!Carolus, Dēmētrius.</speakers>
+    <speakers>Carolus, Dēmētrius</speakers>
     <spoken>
       <tablerow>
         <p>Ca. Bonus vesper.</p>
@@ -129,7 +129,7 @@
     <h2>Dialogus IV</h2>
     <head>Sub Prīmam Facem Noctis</head>
     <en-head>At the Night’s First Watch</en-head>
-    <speakers>!Detius, !Eustachius.</speakers>
+    <speakers>Detius, Eustachius</speakers>
     <spoken>
       <tablerow>
         <p>De. Sit tibi haec nox fēlīx.</p>
@@ -158,11 +158,13 @@
     </spoken>
   </section>
 
+  <page />
+
   <section>
     <h2>Dialogus V</h2>
     <head>Dum Ītur Cubitum</head>
     <en-head>While Going to Bed</en-head>
-    <speakers>Fēlīx, !Gaspar.</speakers>
+    <speakers>Fēlīx, Gaspar</speakers>
     <spoken>
       <tablerow>
         <p>Fē. Quota est hōra?</p>
@@ -177,7 +179,7 @@
         <en-p>We should go to bed.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Nōn !dormītūriō.</p>
+        <p>Ga. Nōn dormītūriō.</p>
         <en-p>I won’t go to sleep.</en-p>
         <tablerow>
         </tablerow>
@@ -215,7 +217,7 @@
     <h2>Dialogus VI</h2>
     <head>Dum Redītur Cubitū</head>
     <en-head>While Getting Up</en-head>
-    <speakers>!Gabriel, Henrīcus.</speakers>
+    <speakers>Gabriel, Henrīcus</speakers>
     <spoken>
       <tablerow>
         <p>Ga. Heus, expergīscere.</p>
@@ -296,7 +298,7 @@
     <h2>Dialogus VII</h2>
     <head>Dum Ītur Ad Scholam</head>
     <en-head>While Heading for School</en-head>
-    <speakers>Hannō, Iōannēs.</speakers>
+    <speakers>Hannō, Iōannēs</speakers>
     <spoken>
       <tablerow>
         <p>Ha. Heu, quid facimus?</p>
@@ -373,7 +375,7 @@
     <h2>Dialogus VIII</h2>
     <head>Inter Eundum In Scholam</head>
     <en-head>While Going to School</en-head>
-    <speakers>!Iodocus, !Kiliānus.</speakers>
+    <speakers>Iodocus, Kiliānus</speakers>
     <spoken>
       <tablerow>
         <p>Io. Heus heus, manē.</p>
@@ -474,10 +476,12 @@
     </spoken>
   </section>
 
+  <page />
+
   <section>
     <h2>Dialogus IX</h2>
     <head>Inter Discendum In Scholā</head>
-    <speakers>!Kiliānus, !Lampertus.</speakers>
+    <speakers>Kiliānus, Lampertus</speakers>
     <spoken>
       <tablerow>
         <p>Ki. Heus, tū hūc sedē.</p>
@@ -606,7 +610,7 @@
     <h2>Dialogus X</h2>
     <head>Dē Cavendīs In Scholā Coricaeīs</head>
     <en-head>Beware the Informers in School</en-head>
-    <speakers>Lūcās, Mārcus.</speakers>
+    <speakers>Lūcās, Mārcus</speakers>
     <spoken>
       <tablerow>
         <p>Lū. Cūr tū sīc mūtīs?</p>
@@ -679,7 +683,7 @@
     <h2>Dialogus XI</h2>
     <head>Dē Ferulā</head>
     <en-head>The Rod</en-head>
-    <speakers>!Martīnus, Nīcolāus.</speakers>
+    <speakers>Martīnus, Nīcolāus</speakers>
     <spoken>
       <tablerow>
         <p>Ma. Quis hīc eiulat?</p>
@@ -728,7 +732,7 @@
     <h2>Dialogus XII</h2>
     <head>Dē Ientāculō</head>
     <en-head>Breakfast</en-head>
-    <speakers>Naevius, !Osualdus.</speakers>
+    <speakers>Naevius, Osualdus</speakers>
     <spoken>
       <tablerow>
         <p>Næ. Quō tū nunc abīs?</p>
@@ -785,7 +789,7 @@
     <h2>Dialogus XIII</h2>
     <head>Dē Reditū Ā Ientāculō</head>
     <en-head>Returning from Breakfast</en-head>
-    <speakers>!Onophrius, Paulus.</speakers>
+    <speakers>Onophrius, Paulus</speakers>
     <spoken>
       <tablerow>
         <p>On. Unde nōbīs redīs?</p>
@@ -870,7 +874,7 @@
     <h2>Dialogus XIV</h2>
     <head>Dē Parandō Calamō</head>
     <en-head>Getting a Pen Ready</en-head>
-    <speakers>Petrus, Quirīnus.</speakers>
+    <speakers>Petrus, Quirīnus</speakers>
     <spoken>
       <tablerow>
         <p>Pe. Parā mihi hanc pennam.</p>
@@ -963,7 +967,7 @@
     <h2>Dialogus XV</h2>
     <head>Inter Redeundum Ā Scholā</head>
     <en-head>While Returning From School</en-head>
-    <speakers>Quīntius, !Rudolphus.</speakers>
+    <speakers>Quīntius, Rudolphus</speakers>
     <spoken>
       <tablerow>
         <p>Qu. Ut tēcum agitur?</p>
@@ -1032,7 +1036,7 @@
     <h2>Dialogus XVI</h2>
     <head>Dum Īnstruitur Mēnsa</head>
     <en-head>While the Table Is Set</en-head>
-    <speakers>!Remigius, !Sebaldus.</speakers>
+    <speakers>Remigius, Sebaldus</speakers>
     <spoken>
       <tablerow>
         <p>Re. Puer, ubi es?</p>
@@ -1159,9 +1163,20 @@
         <en-p>Next praise God.</en-p>
       </tablerow>
       <tablerow>
-        <p>Deus pater noster caelestis benedīcat nōbīs fīliīs suīs et hīs 
-        quae iam sumus sūmptūrī, per Chrīstum dominum nostrum, Āmēn.</p>
-        <en-p>"May God, our heavenly Father, bless us His children and these things we are about to receive, through Christ Our Lord, amen."</en-p>
+        <p>Deus pater noster caelestis</p>
+        <en-p>"May God, our heavenly Father,</en-p>
+      </tablerow>
+      <tablerow>
+        <p>benedīcat nōbīs fīliīs suīs</p>
+        <en-p>bless us His children</en-p>
+      </tablerow>
+      <tablerow>
+        <p>et hīs quae iam sumus sūmptūrī,</p>
+        <en-p>and these things we are about to receive,</en-p>
+      </tablerow>
+      <tablerow>
+        <p>per Chrīstum dominum nostrum, Āmēn.</p>
+        <en-p>through Christ Our Lord, amen."</en-p>
       </tablerow>
       <tablerow>
         <p>Post decenter accumbe.</p>
@@ -1276,8 +1291,20 @@
         <en-p>Give thanks to God.</en-p>
       </tablerow>
       <tablerow>
-        <p>Quī nōs creāvit, redēmit et pāvit, illī grātiās agimus sempiternās, per Iēsum Chrīstum dominum nostrum, Āmēn.</p>
-        <en-p>“Who has created us, redeemed, and fed, to Him we give thanks forever, through Jesus Christ Our Lord, amen.</en-p>
+        <p>Quī nōs creāvit,</p>
+        <en-p>“Who has created us,</en-p>
+      </tablerow>
+      <tablerow>
+        <p>redēmit et pāvit,</p>
+        <en-p>redeemed, and fed,</en-p>
+      </tablerow>
+      <tablerow>
+        <p>illī grātiās agimus sempiternās,</p>
+        <en-p>to Him we give thanks forever,</en-p>
+      </tablerow>
+      <tablerow>
+        <p>per Iēsum Chrīstum dominum nostrum, Āmēn.</p>
+        <en-p>through Jesus Christ Our Lord, amen.</en-p>
       </tablerow>
     </spoken>
   </section>
@@ -1286,7 +1313,7 @@
     <h2>Dialogus XVII</h2>
     <head>Ā Prandiō Redeuntium In Scholam</head>
     <en-head>Returning to School from Lunch</en-head>
-    <speakers>Simōn, Titus.</speakers>
+    <speakers>Simōn, Titus</speakers>
     <spoken>
       <tablerow>
         <p>Si. Quid geris in sinū?</p>
@@ -1363,7 +1390,7 @@
     <h2>Dialogus XVIII</h2>
     <head>In Scholā Lūdentium</head>
     <en-head>Playing in School</en-head>
-    <speakers>!Timothaeus, !Vitus.</speakers>
+    <speakers>Timothaeus, Vitus</speakers>
     <spoken>
       <tablerow>
         <p>Ti. Vae nōbīs, Vite.</p>
@@ -1448,7 +1475,7 @@
     <h2>Dialogus XIX</h2>
     <head>Dē Dīmissiōne Ā Litterīs</head>
     <en-head>Dismissal from School</en-head>
-    <speakers>Ulyssēs, Xanthus.</speakers>
+    <speakers>Ulyssēs, Xanthus</speakers>
     <spoken>
       <tablerow>
         <p>Ul. Iō gaudēte sodālēs.</p>
@@ -1686,7 +1713,7 @@
     <h2>Dialogus XXII</h2>
     <head>Dē Studiō Interrogantium</head>
     <en-head>Asking About Hobbies</en-head>
-    <speakers>Abraham, !Briccius.</speakers>
+    <speakers>Abraham, Briccius</speakers>
     <spoken>
       <tablerow>
         <p>Ab. Quid ā cēnā facis?</p>
@@ -1735,7 +1762,7 @@
     <h2>Dialogus XXIII</h2>
     <head>Dē Absentiā Ā Scholā</head>
     <en-head>About Being Gone From School</en-head>
-    <speakers>Benedictus, !Christophorus.</speakers>
+    <speakers>Benedictus, Christophorus</speakers>
     <spoken>
       <tablerow>
         <p>Be. Ubi herī fuerās?</p>
@@ -1804,7 +1831,7 @@
     <h2>Dialogus XXIV</h2>
     <head>Mūtuō Grātulantium Sibi</head>
     <en-head>Greeting Each Other</en-head>
-    <speakers>!Cyrillus, Dōnātus.</speakers>
+    <speakers>Cyrillus, Dōnātus</speakers>
     <spoken>
       <tablerow>
         <p>Cy. Unde iam prōrēpis?</p>
@@ -1853,7 +1880,7 @@
     <h2>Dialogus XXV</h2>
     <head>Agnōscentium Sēsē In Lūdō</head>
     <en-head>Recognizing Each Other in School</en-head>
-    <speakers>Simōn, Petrus.</speakers>
+    <speakers>Simōn, Petrus</speakers>
     <spoken>
       <tablerow>
         <p>Si. Quod tibi nōmen est?</p>
@@ -1946,7 +1973,7 @@
     <h2>Dialogus XXVI</h2>
     <head>Lītigantium Dē Rē Ablātā</head>
     <en-head>Fighting About Something Taken</en-head>
-    <speakers>Petrōnius, Theodōrus.</speakers>
+    <speakers>Petrōnius, Theodōrus</speakers>
     <spoken>
       <tablerow>
         <p>Pe. Redde quod meum est.</p>
@@ -2043,11 +2070,13 @@
     </spoken>
   </section>
 
+  <page />
+
   <section>
     <h2>Dialogus XXVII</h2>
     <head>Prōdeuntium In Fūnus</head>
     <en-head>Going to a Funeral</en-head>
-    <speakers>!Thomas, Geōrgius.</speakers>
+    <speakers>Thomas, Geōrgius</speakers>
     <spoken>
       <tablerow>
         <p>Th. Adesdum Geōrgī?</p>
@@ -2166,36 +2195,59 @@
         <en-p>Say it, I’m listening now.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ge. Hōc vīnum nōbīs faustum sit. Bonō sit pōtus iste. Hōc vīnum laetī bibite.</p>
-        <en-p>May this wine be auspicious for us. May the drink be for the good. Rejoice as you drink this wine.</en-p>
+        <p>Ge. Hōc vīnum nōbīs faustum sit.</p> <en-p>May this wine be auspicious for us.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bonō sit pōtus iste.</p>
+        <en-p> May the drink be for the good.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Hōc vīnum laetī bibite.</p>
+        <en-p>Rejoice as you drink this wine.</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Quid sternūtantī imprecer?</p>
         <en-p>What do you pray for someone sneezing?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ge. Sit tibi hōc fēlīx. Tē Deus servet.</p>
-        <en-p>May this turn out well for you. May God preserve you.</en-p>
+        <p>Ge. Sit tibi hōc fēlīx.</p>
+        <en-p>May this turn out well for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Tē Deus servet.</p>
+        <en-p>May God preserve you.</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Quid auspicantī aliquid?</p>
         <en-p>What about for someone looking for omens?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ge. Bonō sit quod īnstituis. Bene vertat quod agis.</p>
-        <en-p>May what you are starting go well. May what you are doing turn out well.</en-p>
+        <p>Ge. Bonō sit quod īnstituis.</p>
+        <en-p>May what you are starting go well.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Bene vertat quod agis.</p>
+        <en-p>May what you are doing turn out well.</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Quid proficīscentī?</p>
         <en-p>What about for someone starting a journey?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ge. Sit iter hōc fēlīx tibi. Perfaustē solvās ancoram. Sit laetus tibi reditus.</p>
-        <en-p>May this trip be fortunate for you. May you loose your anchor very fortunately. May you have a happy return.</en-p>
+        <p>Ge. Sit iter hōc fēlīx tibi.</p>
+        <en-p>May this trip be fortunate for you.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Perfaustē solvās ancoram.</p>
+        <en-p>May you loose your anchor very fortunately.</en-p>
+      </tablerow>
+      <tablerow>
+        <p>Sit laetus tibi reditus.</p>
+        <en-p>May you have a happy return.</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Quid haec precantī referam?</p>
-        <en-p>What should I respond to someone saying such prayers?</en-p>
+        <en-p>What should I respond to someone saying this?</en-p>
       </tablerow>
       <tablerow>
         <p>Ge. Tantundem tibi reprecor.</p>
@@ -2203,5 +2255,7 @@
       </tablerow>
     </spoken>
   </section>
+
+<macrons>Balthasar, Blāsius, Carolus, Detius, Eustachius, Gaspar, dormītūriō, Gabriel, Iodocus, Kiliānus, Kiliānus, Lampertus, Martīnus, Osualdus, Onophrius, Rudolphus, Remigius, Sebaldus, Timothaeus, Vitus, Abraham, Briccius, Benedictus, Christophorus, Cyrillus, Thomas</macrons>
 
 </content>
