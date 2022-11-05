@@ -4,7 +4,7 @@
 
 \startxmlsetups xml:heyden:*
   \xmlsetsetup{\xmldocument}{*}{-}
-  \xmlsetsetup{\xmldocument}{content|h1|section|spoken|tablerow|h2|head|en-head|speakers|p|en-p|page|skip}{xml:heyden:*}
+  \xmlsetsetup{\xmldocument}{content|h1|section|spoken|tablerow|h2|head|en-head|speakers|p|en-p|page|skip|note|it}{xml:heyden:*}
 \stopxmlsetups
 
 \xmlregisterdocumentsetup{heyden}{xml:heyden:*}
@@ -12,13 +12,14 @@
 \startxmlsetups{xml:heyden:content}
   \starttitle[title={\xmlfirst{#1}{h1}}]
     %\xmlflush{#1}
+    \page
     \xmlall{#1}{section|page}
   \stoptitle
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:section}
   \startchapter[title={\xmlfirst{#1}{h2}}]
-    \xmlall{#1}{!h2|!p|!en-p|!tablerow}
+    \xmlall{#1}{!h2|!p|!en-p|!tablerow|!note|!it}
     %\xmlfilter{#1}{[position()>1]/all()}
   \stopchapter
 \stopxmlsetups
@@ -62,10 +63,18 @@
     \xmlflush{#1}
   %\stopxcell%\eTD
   %\eTD
-  \NC
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:note}
+  \footnote{\xmlflush{#1}}
+\stopxmlsetups
+
+\startxmlsetups{xml:heyden:it}
+  {\it \xmlflush{#1}}
 \stopxmlsetups
 
 \startxmlsetups{xml:heyden:en-p}
+  \NC
   %\bTD
   %\startxcell%\bTD
     \xmlflush{#1}
@@ -90,7 +99,29 @@
   \xmlflush{#1}
 \stopxmlsetups
 
-\setupbodyfont[palatino, 9pt]
+\starttypescript [coelacanth,coelacanth-display]
+% \definefontsynonym[Human readable]       [file:filename without extension]
+  \definefontsynonym[coelacanth]           [file:Coelacanth]
+  \definefontsynonym[coelacanthitalic]     [file:CoelacanthItalic]
+  \definefontsynonym[coelacanthbold]       [file:CoelacanthBold]
+  \definefontsynonym[coelacanthdisplaylight]    [file:CoelacanthDisplayLt]
+\stoptypescript
+
+\starttypescript [coelacanth,coelacanth-display]
+  \setups[font:fallback:serif]
+  \definefontsynonym[Serif]        [coelacanth]             [features=default]
+  \definefontsynonym[SerifItalic]  [coelacanthitalic]       [features=default]
+  \definefontsynonym[SerifBold]    [coelacanthbold]         [features=default]
+  \definefontsynonym[DisplayLight] [coelacanthdisplaylight] [features=default]
+\stoptypescript
+
+\starttypescript [coelacanth]
+  \definetypeface [coelacanth]    [rm] [serif] [coelacanth]    [default]
+\stoptypescript
+
+\setupbodyfont[coelacanth, 9pt]
+
+% \setupbodyfont[palatino, 9pt]
 %\setupTABLE[columndistance=.5in,split=yes,option=tight,align=lohi,frame=off]
 %\setupTABLE[c][align={lohi,flushleft,hz},width=2in,offset=0em]
 %\setupTABLE[c][2][style=\it]
@@ -101,8 +132,11 @@
 \setuphead[chapter][number=no,page=no,after=\smallskip,before=\bigskip]
 \setuphead[title][align={middle,nothyphenated}]
 
+\setupfootnotes[n=3]
+
 \enablemode[booklet]
 \environment /home/keiser/context/environments/doc_types.tex
+\setuplayout[grid=no] % Remove if not using coelacanth
 
 \starttext
   \xmlprocessfile{heyden}{puerilium_colloquiorum.xml}{}

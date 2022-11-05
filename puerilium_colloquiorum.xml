@@ -54,11 +54,11 @@
         <en-p>I hope you are very well.</en-p>
       </tablerow>
       <tablerow>
-        <p>Cl. Et tū tantundem salvē.</p>
+          <p>Cl. Et tū tantundem<note>the same amount</note> salvē.</p>
         <en-p>And I hope you are just as well.</en-p>
       </tablerow>
       <tablerow>
-        <p>Bl. Salvus sīs tū.</p>
+          <p>Bl. Salvus<note>healthy (<it>cf. salvēre</it>)</note> sīs tū.</p>
         <en-p>May you be well.</en-p>
       </tablerow>
       <tablerow>
@@ -74,7 +74,7 @@
         <en-p>And I hope the same for you.</en-p>
       </tablerow>
       <tablerow>
-        <p>Bl. Salūte tē impertior.</p>
+          <p>Bl. Salūte tē impertior<note>share, bestow</note>.</p>
         <en-p>I impart health to you.</en-p>
       </tablerow>
       <tablerow>
@@ -107,15 +107,15 @@
         <en-p>Thanks be to God.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ca. Bonum sērum.</p>
-        <en-p>Good twilight.</en-p>
+          <p>Ca. Bonum sērum<note>late</note>.</p>
+        <en-p>Good end of day.</en-p>
       </tablerow>
       <tablerow>
         <p>De. Laus Creātōrī.</p>
         <en-p>Praise be to the Creator.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ca. Hic vesper fēlīx sit tibi.</p>
+          <p>Ca. Hic vesper<note>evening</note> fēlīx sit tibi.</p>
         <en-p>May this evening be happy for you.</en-p>
       </tablerow>
       <tablerow>
@@ -127,7 +127,7 @@
 
   <section>
     <h2>Dialogus IV</h2>
-    <head>Sub Prīmam Facem Noctis</head>
+    <head>Sub Prīmam Facem<note>torch</note> Noctis</head>
     <en-head>At the Night’s First Watch</en-head>
     <speakers>Detius, Eustachius</speakers>
     <spoken>
@@ -136,11 +136,11 @@
         <en-p>May this night be happy for you.</en-p>
       </tablerow>
       <tablerow>
-        <p>Eu. Et tibi fausta haec sit.</p>
+          <p>Eu. Et tibi fausta<note>favorable, prosperous, lucky</note> haec sit.</p>
         <en-p>And may it be fortunate for you.</en-p>
       </tablerow>
       <tablerow>
-        <p>De. Faustam dēgās noctem.</p>
+          <p>De. Faustam dēgās<note><it>dēgere</it>: spend (time)</note> noctem.</p>
         <en-p>May you spend a fortunate night.</en-p>
       </tablerow>
       <tablerow>
@@ -148,7 +148,7 @@
         <en-p>You also, not an unfortunate one.</en-p>
       </tablerow>
       <tablerow>
-        <p>De. Nox istaec vōbīs commodet.</p>
+          <p>De. Nox istaec<note><it>iste</it> with <it>-c</it></note> vōbīs commodet<note>arrange, order, accomodate</note>.</p>
         <en-p>May this your night go well for you.</en-p>
       </tablerow>
       <tablerow>
@@ -162,12 +162,12 @@
 
   <section>
     <h2>Dialogus V</h2>
-    <head>Dum Ītur Cubitum</head>
+    <head>Dum Ītur Cubitum<note>supine of <it>cubere</it>: lie down</note></head>
     <en-head>While Going to Bed</en-head>
     <speakers>Fēlīx, Gaspar</speakers>
     <spoken>
       <tablerow>
-        <p>Fē. Quota est hōra?</p>
+        <p>Fē. Quota<note>how many</note> est hōra?</p>
         <en-p>What time is it?</en-p>
         <tablerow>
         </tablerow>
@@ -175,15 +175,15 @@
         <en-p>The third hour has rung.</en-p>
         <tablerow>
         </tablerow>
-        <p>Fē. Eundum est cubitum.</p>
+        <p>Fē. Eundum<note>gerundive of <it>īre</it></note> est cubitum.</p>
         <en-p>We should go to bed.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Nōn dormītūriō.</p>
+        <p>Ga. Nōn dormītūriō<note>related to sleeping</note>.</p>
         <en-p>I won’t go to sleep.</en-p>
         <tablerow>
         </tablerow>
-        <p>Fē. At ego oppidō.</p>
+        <p>Fē. At ego oppidō<note>definitely (not from <it>oppidum</it>)</note>.</p>
         <en-p>But I will, for sure.</en-p>
         <tablerow>
         </tablerow>
@@ -199,15 +199,15 @@
         <en-p>I’ll keep reading.</en-p>
         <tablerow>
         </tablerow>
-        <p>Fē. Mālō quiēscere.</p>
+        <p>Fē. Mālō quiēscere<note>rest</note>.</p>
         <en-p>I’d rather rest.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Facesse hinc, Endymiōn.</p>
+        <p>Ga. Facesse<note>go ahead, accomplish, depart</note> hinc, Endymiōn<note>mythological character who sleeps eternally</note>.</p>
         <en-p>Do it somewhere else, Endymion.</en-p>
         <tablerow>
         </tablerow>
-        <p>Fē. Haud tē impedīverō.</p>
+        <p>Fē. Haud tē impedīverō<note>hinder, impede</note>.</p>
         <en-p>I won’t stop you from anything.</en-p>
       </tablerow>
     </spoken>
@@ -220,7 +220,7 @@
     <speakers>Gabriel, Henrīcus</speakers>
     <spoken>
       <tablerow>
-        <p>Ga. Heus, expergīscere.</p>
+          <p>Ga. Heus, expergīscere<note>awake, rouse</note>.</p>
         <en-p>Hey, get going.</en-p>
         <tablerow>
         </tablerow>
@@ -232,7 +232,7 @@
         <en-p>It’s time to get up.</en-p>
         <tablerow>
         </tablerow>
-        <p>He. Nōndum dīlūxit.</p>
+        <p>He. Nōndum dīlūxit<note>brighten enough to see clearly</note>.</p>
         <en-p>It’s not light yet.</en-p>
         <tablerow>
         </tablerow>
@@ -240,19 +240,19 @@
         <en-p>Open your eyes.</en-p>
         <tablerow>
         </tablerow>
-        <p>He. Adhūc gravantur somnō.</p>
+        <p>He. Adhūc gravantur<note>burden, weigh down</note> somnō.</p>
         <en-p>They’re still heavy with sleep.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Es glīre somnolentior.</p>
+        <p>Ga. Es glīre<note>dormouse</note> somnolentior.</p>
         <en-p>You’re sleepier than a dormouse.</en-p>
         <tablerow>
         </tablerow>
-        <p>He. Rogō nē sīs molestus.</p>
+        <p>He. Rogō nē sīs molestus<note>annoying, troublesome</note>.</p>
         <en-p>I’m asking you to quit being annoying.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Nōn pudet tē, asine?</p>
+        <p>Ga. Nōn pudet<note>shame, embarass</note> tē, asine<note>donkey</note>?</p>
         <en-p>Aren’t you ashamed, you donkey?</en-p>
         <tablerow>
         </tablerow>
@@ -260,7 +260,7 @@
         <en-p>What should I be ashamed of?</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. In multam lūcem stertere.</p>
+        <p>Ga. In multam lūcem stertere<note>snore</note>.</p>
         <en-p>Snoring into broad daylight.</en-p>
         <tablerow>
         </tablerow>
@@ -268,7 +268,7 @@
         <en-p>What time has it rung?</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Iam imminet prīma.</p>
+        <p>Ga. Iam imminet<note>project, hang down, be near</note> prīma.</p>
         <en-p>The first hour is coming up.</en-p>
         <tablerow>
         </tablerow>
@@ -276,15 +276,15 @@
         <en-p>I’ll still sleep a little.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Quīn surgis, piger?</p>
+        <p>Ga. Quīn surgis, piger<note>lazy</note>?</p>
         <en-p>Why don’t you get up, you bum?</en-p>
         <tablerow>
         </tablerow>
-        <p>He. Quōmodo tam māne?</p>
+        <p>He. Quōmodo tam māne?<note>morning, early</note></p>
         <en-p>How can I so early?</en-p>
         <tablerow>
         </tablerow>
-        <p>Ga. Mox fuste tē excitābō.</p>
+        <p>Ga. Mox fuste<note><it>fustis</it>: stick</note> tē excitābō<note><it>excitāre</it>: to send out, wake up</note>.</p>
         <en-p>I’m gonna wake you up with a stick soon.</en-p>
         <tablerow>
         </tablerow>
@@ -305,7 +305,7 @@
         <en-p>Hey, what are we doing?</en-p>
         <tablerow>
         </tablerow>
-        <p>Iō. Cūr sīc vōciferās?</p>
+        <p>Iō. Cūr sīc vōciferās<note>shout (<it>vox</it> + <it>ferre</it>)</note>?</p>
         <en-p>Why are you shouting?</en-p>
         <tablerow>
         </tablerow>
@@ -317,8 +317,8 @@
         <en-p>So what? What are you afraid of?</en-p>
         <tablerow>
         </tablerow>
-        <p>Ha. Tempus praescrīptum trānsiit.</p>
-        <en-p>The assigned time has gone by.</en-p>
+        <p>Ha. Tempus praescrīptum<note>assigned</note> trānsiit.</p>
+        <en-p>The assigned time has past.</en-p>
         <tablerow>
         </tablerow>
         <p>Iō. Quod tempus dīcis?</p>
@@ -357,7 +357,7 @@
         <en-p>The twelfth.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ha. Utinam vērum sit.</p>
+        <p>Ha. Utinam<note>would that</note> vērum sit.</p>
         <en-p>I hope it’s true.</en-p>
         <tablerow>
         </tablerow>
@@ -365,7 +365,7 @@
         <en-p>There’s no reason to doubt it.</en-p>
         <tablerow>
         </tablerow>
-        <p>Ha. Oppidō laetor.</p>
+        <p>Ha. Oppidō laetor<note>to be happy</note>.</p>
         <en-p>I’m sure glad.</en-p>
       </tablerow>
     </spoken>
@@ -394,7 +394,7 @@
         <en-p>There’s no time just now.</en-p>
       </tablerow>
       <tablerow>
-        <p>Io. Tantillum pernegēs?</p>
+          <p>Io. Tantillum<note>diminutive of <it>tantus</it></note> pernegēs<note><it>per</it> + <it>negāre</it></note>?</p>
         <en-p>You refuse such a little thing?</en-p>
       </tablerow>
       <tablerow>
@@ -406,7 +406,7 @@
         <en-p>I won’t let you go.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Ēnecās mē, furcifer.</p>
+          <p>Ki. Ēnecās<note><it>ex</it> + <it>necāre</it></note> mē, furcifer<note>insult (<it>furca</it> + <it>ferre</it>)</note>.</p>
         <en-p>You’re killing me, you jerk.</en-p>
       </tablerow>
       <tablerow>
@@ -414,7 +414,7 @@
         <en-p>Listen to just one word.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Ecquid meā rēfert?</p>
+          <p>Ki. Ecquid<note>is there something that?</note> meā rēfert<note>concern (<it>rē</it> (abl.) + <it>ferre</it></note>?</p>
         <en-p>Is it really something that concerns me?</en-p>
       </tablerow>
       <tablerow>
@@ -434,7 +434,7 @@
         <en-p>What should I promise?</en-p>
       </tablerow>
       <tablerow>
-        <p>Io. Tē nōn fore invidum.</p>
+          <p>Io. Tē nōn fore<note>future infinitive of <it>esse</it></note> invidum<note>envious, hateful</note>.</p>
         <en-p>That you won’t be a jerk about it.</en-p>
       </tablerow>
       <tablerow>
@@ -450,7 +450,7 @@
         <en-p>Why my ear? Say it out loud.</en-p>
       </tablerow>
       <tablerow>
-        <p>Io. Arcāna rēs est.</p>
+          <p>Io. Arcāna<note>hidden, secret</note> rēs est.</p>
         <en-p>It’s a private thing.</en-p>
       </tablerow>
       <tablerow>
@@ -462,7 +462,7 @@
         <en-p>I won’t say it out loud.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Lūdificāris nunc mē.</p>
+          <p>Ki. Lūdificāris<note><it>lūdus</it> + <it>facere</it></note> nunc mē.</p>
         <en-p>Now you’re making fun of me.</en-p>
       </tablerow>
       <tablerow>
@@ -470,13 +470,11 @@
         <en-p>That’s what I wanted.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Haud impūnē hōc ferēs.</p>
+          <p>Ki. Haud impūnē<note>without punishment</note> hōc ferēs.</p>
         <en-p>You won’t get away with this.</en-p>
       </tablerow>
     </spoken>
   </section>
-
-  <page />
 
   <section>
     <h2>Dialogus IX</h2>
@@ -488,7 +486,7 @@
         <en-p>Hey, sit over here.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Quid istīc facerem?</p>
+          <p>La. Quid istīc<note>there by you (<it>cf. hīc, illīc</it>)</note> facerem?</p>
         <en-p>What would I do over there?</en-p>
       </tablerow>
       <tablerow>
@@ -504,11 +502,11 @@
         <en-p>Let one teach the other.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Perlubēns pāreō.</p>
+          <p>La. Perlubēns<note>very willing (<it>per</it> + alt. form <it>libēns</it></note> pāreō.</p>
         <en-p>I am totally ready.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Quidnam tū discis?</p>
+          <p>Ki. Quidnam<note><it>-nam</it> intenifies a question word</note> tū discis?</p>
         <en-p>What are you learning, anyway?</en-p>
       </tablerow>
       <tablerow>
@@ -520,16 +518,16 @@
         <en-p>Where are you reading now?</en-p>
       </tablerow>
       <tablerow>
-        <p>La. In hōc foliō.</p>
+          <p>La. In hōc foliō<note>leaf, sheet</note>.</p>
         <en-p>On this sheet.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Scīs lēctiōnem?</p>
+          <p>Ki. Scīs lēctiōnem<note>reading, lecture</note>?</p>
         <en-p>Do you know the reading?</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Nōn admodum prōmptē.</p>
-        <en-p>Not quickly enough.</en-p>
+          <p>La. Nōn admodum<note>very much</note> prōmptē.</p>
+        <en-p>Not quick enough at all.</en-p>
       </tablerow>
       <tablerow>
         <p>Ki. Quotiēs recitāstī?</p>
@@ -552,7 +550,7 @@
         <en-p>If you don’t know something, ask.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Quī hōc legam?</p>
+          <p>La. Quī<note>alt. abl. of <it>quid</it></note> hōc legam?</p>
         <en-p>How should I read this?</en-p>
       </tablerow>
       <tablerow>
@@ -561,18 +559,18 @@
       </tablerow>
       <tablerow>
         <p>La. Tū mē observā.</p>
-        <en-p>Watch me.</en-p>
+        <en-p>Listen to me.</en-p>
       </tablerow>
       <tablerow>
         <p>Ki. Ut haesitās linguā?</p>
         <en-p>Why are you choppy in your speech?</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Sīc assuētus sum.</p>
+          <p>La. Sīc assuētus<note>accustomed</note> sum.</p>
         <en-p>That’s what I’m used to.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Dēsuēsce rūrsus.</p>
+          <p>Ki. Dēsuēsce<note>disaccustom</note> rūrsus.</p>
         <en-p>Get unused to it.</en-p>
       </tablerow>
       <tablerow>
@@ -580,11 +578,11 @@
         <en-p>I’ll keep reading.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Iam verba praecipitās.</p>
+          <p>Ki. Iam verba praecipitās<note>throw headfirst, fall down, hurry</note>.</p>
         <en-p>Now you’re rushing through the words.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Tū melius docē.</p>
+          <p>La. Tū melius<note>better</note> docē.</p>
         <en-p>Teach me to do better.</en-p>
       </tablerow>
       <tablerow>
@@ -592,15 +590,15 @@
         <en-p>You should read distinctly, like this.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Tam clārē haud queō.</p>
+          <p>La. Tam clārē haud queō<note>be able</note>.</p>
         <en-p>I can’t do it that clearly.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ki. Ūsū addisce.</p>
+          <p>Ki. Ūsū addisce<note><it>ad</it> + <it>discere</it></note>.</p>
         <en-p>Learn it by practicing.</en-p>
       </tablerow>
       <tablerow>
-        <p>La. Tentābō quid possim.</p>
+          <p>La. Tentābō<note>try</note> quid possim.</p>
         <en-p>I’ll see what I can do.</en-p>
       </tablerow>
     </spoken>
@@ -608,13 +606,13 @@
 
   <section>
     <h2>Dialogus X</h2>
-    <head>Dē Cavendīs In Scholā Coricaeīs</head>
+    <head>Dē Cavendīs In Scholā Coricaeīs<note>informer</note></head>
     <en-head>Beware the Informers in School</en-head>
     <speakers>Lūcās, Mārcus</speakers>
     <spoken>
       <tablerow>
-        <p>Lū. Cūr tū sīc mūtīs?</p>
-        <en-p>Why are you so quiet?</en-p>
+          <p>Lū. Cūr tū sīc mūtīs<note>mumble, murmur</note>?</p>
+        <en-p>Why are you talking so quietly?</en-p>
       </tablerow>
       <tablerow>
         <p>Mā. Nōn audeō loquī.</p>
@@ -641,11 +639,11 @@
         <en-p>What Informer are you talking about?</en-p>
       </tablerow>
       <tablerow>
-        <p>Mā. Quī clanculum nōs signant.</p>
+          <p>Mā. Quī clanculum<note>secretely, quietly (dim. of <it>clam</it>)</note> nōs signant.</p>
         <en-p>The ones who are secretly writing notes about us.</en-p>
       </tablerow>
       <tablerow>
-        <p>Lū. Nūllum ex hīs nōstī?</p>
+          <p>Lū. Nūllum ex hīs nōstī<note>syncopated perfect of <it>nōscere</it></note>?</p>
         <en-p>You don’t know any of them?</en-p>
       </tablerow>
       <tablerow>
@@ -657,7 +655,7 @@
         <en-p>They do it so cautiously?</en-p>
       </tablerow>
       <tablerow>
-        <p>Mā. Ea est illīs āstūtia.</p>
+          <p>Mā. Ea est illīs āstūtia<note>dexterity, cunning</note>.</p>
         <en-p>That’s how sneaky they are.</en-p>
       </tablerow>
       <tablerow>
@@ -669,11 +667,11 @@
         <en-p>I would, if I knew how.</en-p>
       </tablerow>
       <tablerow>
-        <p>Lū. At sīc addiscēs citius.</p>
+          <p>Lū. At sīc addiscēs<note><it>ad</it> + <it>discere</it></note> citius<note>comparative of <it>cito</it></note>.</p>
         <en-p>But that way you’ll learn faster.</en-p>
       </tablerow>
       <tablerow>
-        <p>Mā. Hāc spē dulcēscit ferula.</p>
+          <p>Mā. Hāc spē dulcēscit<note>become sweet</note> ferula<note>rod, stick</note>.</p>
         <en-p>By this hope, the rod is sweetened.</en-p>
       </tablerow>
     </spoken>
@@ -686,7 +684,7 @@
     <speakers>Martīnus, Nīcolāus</speakers>
     <spoken>
       <tablerow>
-        <p>Ma. Quis hīc eiulat?</p>
+          <p>Ma. Quis hīc ēiulat<note>wail, lament</note>?</p>
         <en-p>Who’s over here crying?</en-p>
       </tablerow>
       <tablerow>
@@ -694,15 +692,15 @@
         <en-p>I’m so miserable.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ma. Quō pactō miser es?</p>
+          <p>Ma. Quō pactō<note><it>quō pactō</it> = <it>quō modō</it></note> miser es?</p>
         <en-p>What are you miserable about?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ni. Virgīs caesus sum.</p>
+          <p>Ni. Virgīs<note>switch, whip</note> caesus sum.</p>
         <en-p>I got beaten with switches.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ma. Quid commeruistī?</p>
+          <p>Ma. Quid commeruistī<note>deserve (<it>con</it> + <it>mereō</it></note>?</p>
         <en-p>What did you do wrong?</en-p>
       </tablerow>
       <tablerow>
@@ -714,7 +712,7 @@
         <en-p>You deserved your beating.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ni. Etiam tū mē lūdis?</p>
+          <p>Ni. Etiam tū mē lūdis<note>laugh at, make fun of</note>?</p>
         <en-p>Are you making fun of me, too?</en-p>
       </tablerow>
       <tablerow>
@@ -751,7 +749,7 @@
         <en-p>I'll get breakfast.</en-p>
       </tablerow>
       <tablerow>
-        <p>Næ. Quānam itūrus es?</p>
+          <p>Næ. Quānam<note><it>viā</it> understood</note> itūrus es?</p>
         <en-p>Which way are you gonna go?</en-p>
       </tablerow>
       <tablerow>
@@ -759,7 +757,7 @@
         <en-p>This way, through the square.</en-p>
       </tablerow>
       <tablerow>
-        <p>Næ. Comitābor tē.</p>
+          <p>Næ. Comitābor<note>accompany, follow (<it>c.f. comes</it></note> tē.</p>
         <en-p>I’ll go with you.</en-p>
       </tablerow>
       <tablerow>
@@ -767,7 +765,7 @@
         <en-p>It’s not necessary.</en-p>
       </tablerow>
       <tablerow>
-        <p>Næ. Āversāris mē?</p>
+          <p>Næ. Āversāris<note>turn away, reject, shun</note> mē?</p>
         <en-p>Are you avoiding me?</en-p>
       </tablerow>
       <tablerow>
@@ -812,7 +810,7 @@
         <en-p>What did you have for breakfast?</en-p>
       </tablerow>
       <tablerow>
-        <p>Pa. Pānem iūrulentum.</p>
+          <p>Pa. Pānem iūrulentum<note>adj. from <it>iūs</it></note>.</p>
         <en-p>Bread and gravy.</en-p>
       </tablerow>
       <tablerow>
@@ -832,16 +830,16 @@
         <en-p>What should I bring you?</en-p>
       </tablerow>
       <tablerow>
-        <p>On. Frustum pānis.</p>
-        <en-p>A bread crust.</en-p>
+          <p>On. Frustum<note>piece, bit</note> pānis.</p>
+        <en-p>A piece of bread.</en-p>
       </tablerow>
       <tablerow>
         <p>Pa. Pānem quidem habeō.</p>
         <en-p>I do have bread.</en-p>
       </tablerow>
       <tablerow>
-        <p>On. Cedo mihi partem.</p>
-        <en-p>Give me a piece.</en-p>
+          <p>On. Cedo<note>give (imperative of defective verb)</note> mihi partem.</p>
+        <en-p>Give me some.</en-p>
       </tablerow>
       <tablerow>
         <p>Pa. Accipe dīmidium.</p>
@@ -860,7 +858,7 @@
         <en-p>There’s nothing I can return it with.</en-p>
       </tablerow>
       <tablerow>
-        <p>Pa. Nōn semper egēbis.</p>
+          <p>Pa. Nōn semper egēbis<note>need, lack, want</note>.</p>
         <en-p>You won’t always be needy.</en-p>
       </tablerow>
       <tablerow>
@@ -881,11 +879,11 @@
         <en-p>Get this pen ready for me.</en-p>
       </tablerow>
       <tablerow>
-        <p>Qu. Est tibi cultellus?</p>
+          <p>Qu. Est tibi cultellus<note>diminutive of <it>culter</it></note>?</p>
         <en-p>Do you have a penknife?</en-p>
       </tablerow>
       <tablerow>
-        <p>Pe. Est, sed valdē hebēs.</p>
+          <p>Pe. Est, sed valdē hebēs<note>blunt, dull</note>.</p>
         <en-p>I do, but it’s very dull.</en-p>
       </tablerow>
       <tablerow>
@@ -897,7 +895,7 @@
         <en-p>Where will I get one?</en-p>
       </tablerow>
       <tablerow>
-        <p>Qu. Ūtendum expete.</p>
+        <p>Qu. Ūtendum expete<note>idiomatic phrase</note>.</p>
         <en-p>Borrow one.</en-p>
       </tablerow>
       <tablerow>
@@ -913,11 +911,11 @@
         <en-p>I want it medium.</en-p>
       </tablerow>
       <tablerow>
-        <p>Qu. Dā ātrāmentum.</p>
+          <p>Qu. Dā ātrāmentum<note><it>āter</it> + <it>-mentum</it></note>.</p>
         <en-p>Give me some ink.</en-p>
       </tablerow>
       <tablerow>
-        <p>Pe. Ēn ātrāmentārium.</p>
+          <p>Pe. Ēn ātrāmentārium<note><it>āter</it> + <it>-mentum</it> + <it>-ārium</it></note>.</p>
         <en-p>Here’s the inkwell.</en-p>
       </tablerow>
       <tablerow>
@@ -925,7 +923,7 @@
         <en-p>Give me some paper, too.</en-p>
       </tablerow>
       <tablerow>
-        <p>Pe. Et haec in prōmptū est.</p>
+          <p>Pe. Et haec in prōmptū<note>ready</note> est.</p>
         <en-p>And here’s some ready.</en-p>
       </tablerow>
       <tablerow>
@@ -942,7 +940,7 @@
       </tablerow>
       <tablerow>
         <p>Pe. Praescrībe litterās.</p>
-        <en-p>Draw the letters.</en-p>
+        <en-p>Draw out the letters.</en-p>
       </tablerow>
       <tablerow>
         <p>Qu. Tū imitāberis?</p>
@@ -990,23 +988,23 @@
         <en-p>Where have you been, now?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ru. In lōdō litterāriō.</p>
-        <en-p>In the literature school.</en-p>
+        <p>Ru. In lūdō litterāriō.</p>
+        <en-p>In school.</en-p>
       </tablerow>
       <tablerow>
         <p>Qu. Quōrsum sīc properās?</p>
         <en-p>Where are you hurrying to like that?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ru. Domum versus.</p>
-        <en-p>Towards home.</en-p>
+          <p>Ru. Domum versus<note>turned</note>.</p>
+        <en-p>Back towards home.</en-p>
       </tablerow>
       <tablerow>
         <p>Qu. Quid domī agēs?</p>
         <en-p>What will you do at home?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ru. Adōrnabō mēnsam.</p>
+          <p>Ru. Adōrnabō<note>prepare, furnish</note> mēnsam.</p>
         <en-p>I’ll set the table.</en-p>
       </tablerow>
       <tablerow>
@@ -1014,7 +1012,7 @@
         <en-p>You have lunch that early?</en-p>
       </tablerow>
       <tablerow>
-        <p>Ru. Obsequor parentī.</p>
+          <p>Ru. Obsequor<note>obey</note> parentī.</p>
         <en-p>I do what my dad wants.</en-p>
       </tablerow>
       <tablerow>
@@ -1047,7 +1045,7 @@
         <en-p>I’m here; what do you need me for?</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Īnstrue mēnsam.</p>
+          <p>Re. Īnstrue<note>set up, build, furnish</note> mēnsam.</p>
         <en-p>Set the table.</en-p>
       </tablerow>
       <tablerow>
@@ -1063,7 +1061,7 @@
         <en-p>It will be taken care of properly.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Porrige cultrōs.</p>
+          <p>Re. Porrige<note>spread out, lay out</note> cultrōs.</p>
         <en-p>Get out the knives.</en-p>
       </tablerow>
       <tablerow>
@@ -1071,7 +1069,7 @@
         <en-p>They are ready.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Dā mappās manuāriās.</p>
+          <p>Re. Dā mappās manuāriās<note>literally "hand cloths"</note>.</p>
         <en-p>Give me the napkins.</en-p>
       </tablerow>
       <tablerow>
@@ -1079,7 +1077,7 @@
         <en-p>And those are here.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Adpōne salīnum.</p>
+          <p>Re. Adpōne salīnum.</p>
         <en-p>Set up the salt shaker.</en-p>
       </tablerow>
       <tablerow>
@@ -1087,15 +1085,15 @@
         <en-p>First I’ll fill it with salt.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Ēlue calicēs.</p>
+          <p>Re. Ēlue<note>wash out</note> calicēs<note>glass, chalice</note>.</p>
         <en-p>Clean the glasses.</en-p>
       </tablerow>
       <tablerow>
-        <p>Se. Dūdum lāvī.</p>
-        <en-p>I now washed them.</en-p>
+          <p>Se. Dūdum<note>just now</note> lāvī.</p>
+        <en-p>I just now washed them.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Adfer orbēs.</p>
+          <p>Re. Adfer orbēs<note>disc, circle</note>.</p>
         <en-p>Bring over the plates.</en-p>
       </tablerow>
       <tablerow>
@@ -1103,8 +1101,8 @@
         <en-p>They’re lying on the stool.</en-p>
       </tablerow>
       <tablerow>
-        <p>Re. Et corbem cocleāriam.</p>
-        <en-p>And the spoon basket.</en-p>
+          <p>Re. Et corbem cocleāriam.</p>
+          <en-p>And the spoon basket<note>unsure what this refers to</note>.</en-p>
       </tablerow>
       <tablerow>
         <p>Se. Ē paxillō pendet.</p>
@@ -1491,7 +1489,7 @@
       </tablerow>
       <tablerow>
         <p>Xa. Quās dīcis fēriās?</p>
-        <en-p>What free days are you talking about?</en-p>
+        <en-p>What days off are you talking about?</en-p>
       </tablerow>
       <tablerow>
         <p>Ul. Ōtium ā litterīs.</p>
@@ -2021,7 +2019,7 @@
       </tablerow>
       <tablerow>
         <p>Th. Equidem nihil abstulī.</p>
-        <en-p>I really didn’t take anything.</en-p>
+        <en-p>I seriously didn’t take anything.</en-p>
       </tablerow>
       <tablerow>
         <p>Pe. Excute manicam.</p>
@@ -2053,11 +2051,11 @@
       </tablerow>
       <tablerow>
         <p>Th. Fūrtī mē adligās?</p>
-        <en-p>Are you accusing me of theft.</en-p>
+        <en-p>Are you holding me for theft?</en-p>
       </tablerow>
       <tablerow>
         <p>Pe. Nōn fūrtī, sed fraudis.</p>
-        <en-p>Not of theft, but of lying.</en-p>
+        <en-p>Not for theft, but for lying.</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Ulcīscar hanc iniūriam.</p>
@@ -2160,11 +2158,11 @@
       </tablerow>
       <tablerow>
         <p>Th. Nec frūstrā hōc petō.</p>
-        <en-p>So I'm not asking for no reason.</en-p>
+        <en-p>And I'm not asking for no reason.</en-p>
       </tablerow>
       <tablerow>
         <p>Ge. Cūr autem petis?</p>
-        <en-p>So then why are you asking?</en-p>
+        <en-p>Why then are you asking?</en-p>
       </tablerow>
       <tablerow>
         <p>Th. Ut mē doceās.</p>
@@ -2195,7 +2193,8 @@
         <en-p>Say it, I’m listening now.</en-p>
       </tablerow>
       <tablerow>
-        <p>Ge. Hōc vīnum nōbīs faustum sit.</p> <en-p>May this wine be auspicious for us.</en-p>
+        <p>Ge. Hōc vīnum nōbīs faustum sit.</p>
+        <en-p>May this wine be auspicious for us.</en-p>
       </tablerow>
       <tablerow>
         <p>Bonō sit pōtus iste.</p>
@@ -2251,7 +2250,7 @@
       </tablerow>
       <tablerow>
         <p>Ge. Tantundem tibi reprecor.</p>
-        <en-p>I pray for the same to you.</en-p>
+        <en-p>I pray just the same for you.</en-p>
       </tablerow>
     </spoken>
   </section>
