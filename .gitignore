@@ -3,3 +3,4 @@
 *.tuc
 !example.pdf
 !example_with_english.pdf
+!editions/*.pdf
